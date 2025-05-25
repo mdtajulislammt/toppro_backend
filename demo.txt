@@ -3,3 +3,4 @@ docs: update API documentation - src/common/utils/helpers.ts - commit 2
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 3
 refactor: optimize queries - README.md - commit 4
 chore: update configs - src/modules/product/product.service.ts - commit 5
+feat: add order management API - prisma/schema.prisma - commit 6
