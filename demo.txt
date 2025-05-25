@@ -1,0 +1,1 @@
+feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 1
