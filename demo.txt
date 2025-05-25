@@ -1,1 +1,2 @@
 feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 1
+docs: update API documentation - src/common/utils/helpers.ts - commit 2
