@@ -7,3 +7,4 @@ feat: add order management API - prisma/schema.prisma - commit 6
 feat: integrate Redis caching - README.md - commit 7
 chore: update configs - src/modules/product/product.service.ts - commit 8
 feat: add auth module with JWT - prisma/schema.prisma - commit 9
+fix: inventory stock bug - src/modules/user/user.service.ts - commit 10
