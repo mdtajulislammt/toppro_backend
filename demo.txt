@@ -10,3 +10,4 @@ feat: add auth module with JWT - prisma/schema.prisma - commit 9
 fix: inventory stock bug - src/modules/user/user.service.ts - commit 10
 feat: add auth module with JWT - src/modules/auth/auth.service.ts - commit 11
 refactor: optimize queries - README.md - commit 12
+feat: implement validation - src/common/utils/helpers.ts - commit 13
