@@ -20,3 +20,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/auth/auth.service.ts - comm
 feat: create inventory module - README.md - commit 20
 feat: add order management API - prisma/schema.prisma - commit 21
 feat: add pagination & filtering - src/common/utils/helpers.ts - commit 22
+feat: integrate Redis caching - README.md - commit 23
