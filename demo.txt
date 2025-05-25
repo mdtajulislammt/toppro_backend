@@ -1,3 +1,4 @@
 feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 1
 docs: update API documentation - src/common/utils/helpers.ts - commit 2
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 3
+refactor: optimize queries - README.md - commit 4
