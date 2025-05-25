@@ -15,3 +15,4 @@ feat: add auth module with JWT - src/common/utils/helpers.ts - commit 14
 fix: resolve auth issue - README.md - commit 15
 feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 16
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 17
+chore: update configs - README.md - commit 18
