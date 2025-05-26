@@ -37,3 +37,4 @@ feat: implement validation - README.md - commit 12
 feat: setup project structure (NestJS) - src/modules/inventory/inventory.service.ts - commit 13
 feat: implement validation - src/modules/user/user.service.ts - commit 14
 feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 15
+docs: update API documentation - src/modules/product/product.service.ts - commit 16
