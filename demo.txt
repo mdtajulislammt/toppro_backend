@@ -33,3 +33,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service
 feat: setup project structure (NestJS) - src/modules/product/product.service.ts - commit 9
 fix: inventory stock bug - src/modules/inventory/inventory.service.ts - commit 10
 feat: create inventory module - src/modules/product/product.service.ts - commit 11
+feat: implement validation - README.md - commit 12
