@@ -40,3 +40,4 @@ feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 15
 docs: update API documentation - src/modules/product/product.service.ts - commit 16
 feat: implement validation - src/modules/order/order.service.ts - commit 17
 feat: add pagination & filtering - src/modules/inventory/inventory.service.ts - commit 18
+feat: add order management API - src/modules/user/user.service.ts - commit 19
