@@ -42,3 +42,4 @@ feat: implement validation - src/modules/order/order.service.ts - commit 17
 feat: add pagination & filtering - src/modules/inventory/inventory.service.ts - commit 18
 feat: add order management API - src/modules/user/user.service.ts - commit 19
 feat: implement user CRUD API - src/modules/order/order.service.ts - commit 20
+fix: resolve auth issue - prisma/schema.prisma - commit 21
