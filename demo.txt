@@ -47,3 +47,4 @@ chore: update configs - README.md - commit 1
 feat: integrate Redis caching - src/modules/product/product.service.ts - commit 2
 fix: resolve auth issue - README.md - commit 3
 fix: inventory stock bug - src/modules/user/user.service.ts - commit 4
+refactor: optimize queries - src/modules/product/product.service.ts - commit 5
