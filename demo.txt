@@ -51,3 +51,4 @@ refactor: optimize queries - src/modules/product/product.service.ts - commit 5
 feat: integrate Redis caching - src/modules/order/order.service.ts - commit 6
 feat: add order management API - src/modules/order/order.service.ts - commit 7
 feat: create inventory module - src/modules/product/product.service.ts - commit 8
+feat: add pagination & filtering - README.md - commit 9
