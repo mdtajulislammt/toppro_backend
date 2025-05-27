@@ -56,3 +56,4 @@ feat: add order management API - src/modules/auth/auth.service.ts - commit 10
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 11
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 12
 refactor: optimize queries - src/modules/order/order.service.ts - commit 13
+feat: integrate Redis caching - src/common/utils/helpers.ts - commit 14
