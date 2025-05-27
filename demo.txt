@@ -55,3 +55,4 @@ feat: add pagination & filtering - README.md - commit 9
 feat: add order management API - src/modules/auth/auth.service.ts - commit 10
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 11
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 12
+refactor: optimize queries - src/modules/order/order.service.ts - commit 13
