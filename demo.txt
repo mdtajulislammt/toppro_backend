@@ -75,3 +75,4 @@ feat: add RBAC system - README.md - commit 5
 feat: add RBAC system - src/common/utils/helpers.ts - commit 6
 feat: create inventory module - README.md - commit 7
 feat: implement user CRUD API - src/modules/inventory/inventory.service.ts - commit 8
+feat: integrate Redis caching - README.md - commit 9
