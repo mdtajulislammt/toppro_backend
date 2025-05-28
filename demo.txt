@@ -68,3 +68,4 @@ feat: add order management API - src/modules/inventory/inventory.service.ts - co
 feat: integrate PostgreSQL with Prisma - README.md - commit 23
 refactor: optimize queries - src/modules/order/order.service.ts - commit 24
 feat: add auth module with JWT - prisma/schema.prisma - commit 1
+feat: implement validation - src/modules/auth/auth.service.ts - commit 2
