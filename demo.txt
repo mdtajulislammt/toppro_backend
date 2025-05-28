@@ -80,3 +80,4 @@ feat: setup project structure (NestJS) - README.md - commit 10
 chore: update configs - src/common/utils/helpers.ts - commit 11
 feat: add pagination & filtering - README.md - commit 12
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 13
+refactor: optimize queries - src/modules/auth/auth.service.ts - commit 14
