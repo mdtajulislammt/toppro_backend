@@ -73,3 +73,4 @@ fix: resolve auth issue - src/common/utils/helpers.ts - commit 3
 fix: resolve auth issue - src/modules/inventory/inventory.service.ts - commit 4
 feat: add RBAC system - README.md - commit 5
 feat: add RBAC system - src/common/utils/helpers.ts - commit 6
+feat: create inventory module - README.md - commit 7
