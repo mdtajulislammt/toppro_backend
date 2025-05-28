@@ -81,3 +81,4 @@ chore: update configs - src/common/utils/helpers.ts - commit 11
 feat: add pagination & filtering - README.md - commit 12
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 13
 refactor: optimize queries - src/modules/auth/auth.service.ts - commit 14
+feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 15
