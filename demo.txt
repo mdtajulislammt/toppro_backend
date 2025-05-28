@@ -71,3 +71,4 @@ feat: add auth module with JWT - prisma/schema.prisma - commit 1
 feat: implement validation - src/modules/auth/auth.service.ts - commit 2
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 3
 fix: resolve auth issue - src/modules/inventory/inventory.service.ts - commit 4
+feat: add RBAC system - README.md - commit 5
