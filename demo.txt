@@ -78,3 +78,4 @@ feat: implement user CRUD API - src/modules/inventory/inventory.service.ts - com
 feat: integrate Redis caching - README.md - commit 9
 feat: setup project structure (NestJS) - README.md - commit 10
 chore: update configs - src/common/utils/helpers.ts - commit 11
+feat: add pagination & filtering - README.md - commit 12
