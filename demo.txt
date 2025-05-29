@@ -100,3 +100,4 @@ feat: implement user CRUD API - src/common/utils/helpers.ts - commit 8
 feat: setup project structure (NestJS) - src/modules/product/product.service.ts - commit 9
 feat: add pagination & filtering - src/modules/user/user.service.ts - commit 10
 docs: update API documentation - src/common/utils/helpers.ts - commit 11
+chore: update configs - src/modules/order/order.service.ts - commit 12
