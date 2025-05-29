@@ -96,3 +96,4 @@ feat: setup project structure (NestJS) - README.md - commit 4
 feat: add pagination & filtering - src/modules/user/user.service.ts - commit 5
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 6
 feat: integrate PostgreSQL with Prisma - src/modules/product/product.service.ts - commit 7
+feat: implement user CRUD API - src/common/utils/helpers.ts - commit 8
