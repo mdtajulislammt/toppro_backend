@@ -98,3 +98,4 @@ fix: resolve auth issue - src/common/utils/helpers.ts - commit 6
 feat: integrate PostgreSQL with Prisma - src/modules/product/product.service.ts - commit 7
 feat: implement user CRUD API - src/common/utils/helpers.ts - commit 8
 feat: setup project structure (NestJS) - src/modules/product/product.service.ts - commit 9
+feat: add pagination & filtering - src/modules/user/user.service.ts - commit 10
