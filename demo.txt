@@ -94,3 +94,4 @@ chore: update configs - README.md - commit 2
 feat: add RBAC system - src/modules/auth/auth.service.ts - commit 3
 feat: setup project structure (NestJS) - README.md - commit 4
 feat: add pagination & filtering - src/modules/user/user.service.ts - commit 5
+fix: resolve auth issue - src/common/utils/helpers.ts - commit 6
