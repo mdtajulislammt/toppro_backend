@@ -109,3 +109,4 @@ feat: implement user CRUD API - README.md - commit 2
 feat: implement validation - README.md - commit 3
 docs: update API documentation - src/common/utils/helpers.ts - commit 4
 refactor: optimize queries - README.md - commit 5
+feat: add RBAC system - prisma/schema.prisma - commit 6
