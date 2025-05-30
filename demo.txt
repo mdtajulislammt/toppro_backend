@@ -120,3 +120,4 @@ feat: create inventory module - prisma/schema.prisma - commit 13
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 14
 feat: add order management API - src/modules/auth/auth.service.ts - commit 15
 feat: implement validation - README.md - commit 16
+feat: create inventory module - prisma/schema.prisma - commit 17
