@@ -116,3 +116,4 @@ chore: update configs - src/modules/product/product.service.ts - commit 9
 feat: add order management API - src/common/utils/helpers.ts - commit 10
 feat: add order management API - README.md - commit 11
 fix: resolve auth issue - src/modules/user/user.service.ts - commit 12
+feat: create inventory module - prisma/schema.prisma - commit 13
