@@ -145,3 +145,4 @@ refactor: optimize queries - src/modules/order/order.service.ts - commit 19
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 20
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 21
 feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 22
+docs: update API documentation - README.md - commit 23
