@@ -137,3 +137,4 @@ feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 11
 feat: add auth module with JWT - README.md - commit 12
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 13
 docs: update API documentation - README.md - commit 14
+feat: setup project structure (NestJS) - src/modules/inventory/inventory.service.ts - commit 15
