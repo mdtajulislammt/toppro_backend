@@ -130,3 +130,4 @@ feat: setup project structure (NestJS) - src/modules/inventory/inventory.service
 feat: implement validation - prisma/schema.prisma - commit 5
 feat: setup project structure (NestJS) - src/modules/product/product.service.ts - commit 6
 feat: add pagination & filtering - README.md - commit 7
+chore: update configs - prisma/schema.prisma - commit 8
