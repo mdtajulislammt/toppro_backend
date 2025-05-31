@@ -132,3 +132,4 @@ feat: setup project structure (NestJS) - src/modules/product/product.service.ts 
 feat: add pagination & filtering - README.md - commit 7
 chore: update configs - prisma/schema.prisma - commit 8
 feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 9
+feat: implement validation - src/modules/user/user.service.ts - commit 10
