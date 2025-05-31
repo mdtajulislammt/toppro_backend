@@ -134,3 +134,4 @@ chore: update configs - prisma/schema.prisma - commit 8
 feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 9
 feat: implement validation - src/modules/user/user.service.ts - commit 10
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 11
+feat: add auth module with JWT - README.md - commit 12
