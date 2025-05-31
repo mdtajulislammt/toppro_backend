@@ -146,3 +146,4 @@ feat: implement validation - src/modules/inventory/inventory.service.ts - commit
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 21
 feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 22
 docs: update API documentation - README.md - commit 23
+fix: resolve auth issue - src/modules/user/user.service.ts - commit 24
