@@ -141,3 +141,4 @@ feat: setup project structure (NestJS) - src/modules/inventory/inventory.service
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 16
 fix: inventory stock bug - src/modules/order/order.service.ts - commit 17
 chore: update configs - src/modules/auth/auth.service.ts - commit 18
+refactor: optimize queries - src/modules/order/order.service.ts - commit 19
