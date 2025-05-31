@@ -128,3 +128,4 @@ feat: add RBAC system - prisma/schema.prisma - commit 2
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 3
 feat: setup project structure (NestJS) - src/modules/inventory/inventory.service.ts - commit 4
 feat: implement validation - prisma/schema.prisma - commit 5
+feat: setup project structure (NestJS) - src/modules/product/product.service.ts - commit 6
