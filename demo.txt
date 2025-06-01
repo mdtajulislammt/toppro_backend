@@ -166,3 +166,4 @@ feat: add RBAC system - src/modules/user/user.service.ts - commit 16
 feat: add pagination & filtering - README.md - commit 17
 feat: create inventory module - prisma/schema.prisma - commit 18
 docs: update API documentation - src/modules/inventory/inventory.service.ts - commit 19
+feat: add pagination & filtering - src/modules/order/order.service.ts - commit 20
