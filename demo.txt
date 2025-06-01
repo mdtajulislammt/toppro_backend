@@ -160,3 +160,4 @@ feat: add auth module with JWT - README.md - commit 10
 fix: resolve auth issue - src/modules/auth/auth.service.ts - commit 11
 feat: setup project structure (NestJS) - README.md - commit 12
 feat: add pagination & filtering - prisma/schema.prisma - commit 13
+feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 14
