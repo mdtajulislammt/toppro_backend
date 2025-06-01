@@ -162,3 +162,4 @@ feat: setup project structure (NestJS) - README.md - commit 12
 feat: add pagination & filtering - prisma/schema.prisma - commit 13
 feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 14
 refactor: optimize queries - src/modules/user/user.service.ts - commit 15
+feat: add RBAC system - src/modules/user/user.service.ts - commit 16
