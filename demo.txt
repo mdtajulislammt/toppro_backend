@@ -184,3 +184,4 @@ chore: update configs - src/modules/user/user.service.ts - commit 10
 feat: add order management API - README.md - commit 11
 feat: create inventory module - prisma/schema.prisma - commit 12
 feat: implement validation - src/modules/user/user.service.ts - commit 13
+feat: add order management API - src/modules/inventory/inventory.service.ts - commit 14
