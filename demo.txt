@@ -171,3 +171,4 @@ feat: implement user CRUD API - src/modules/inventory/inventory.service.ts - com
 feat: add order management API - src/modules/inventory/inventory.service.ts - commit 22
 feat: add order management API - src/modules/order/order.service.ts - commit 23
 feat: implement user CRUD API - README.md - commit 24
+feat: implement validation - src/common/utils/helpers.ts - commit 1
