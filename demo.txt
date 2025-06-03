@@ -195,3 +195,4 @@ feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - co
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 5
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 6
 feat: create inventory module - src/modules/product/product.service.ts - commit 7
+feat: add pagination & filtering - src/modules/product/product.service.ts - commit 8
