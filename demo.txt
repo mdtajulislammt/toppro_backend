@@ -198,3 +198,4 @@ feat: create inventory module - src/modules/product/product.service.ts - commit 
 feat: add pagination & filtering - src/modules/product/product.service.ts - commit 8
 feat: setup project structure (NestJS) - README.md - commit 9
 feat: integrate Redis caching - src/modules/inventory/inventory.service.ts - commit 10
+refactor: optimize queries - src/modules/product/product.service.ts - commit 11
