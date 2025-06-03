@@ -202,3 +202,4 @@ refactor: optimize queries - src/modules/product/product.service.ts - commit 11
 feat: add order management API - src/modules/order/order.service.ts - commit 12
 docs: update API documentation - prisma/schema.prisma - commit 13
 chore: update configs - src/modules/auth/auth.service.ts - commit 14
+feat: add order management API - README.md - commit 15
