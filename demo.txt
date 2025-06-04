@@ -220,3 +220,4 @@ feat: integrate PostgreSQL with Prisma - README.md - commit 14
 refactor: optimize queries - src/modules/order/order.service.ts - commit 15
 fix: resolve auth issue - src/modules/auth/auth.service.ts - commit 16
 fix: inventory stock bug - src/modules/product/product.service.ts - commit 17
+chore: update configs - src/common/utils/helpers.ts - commit 18
