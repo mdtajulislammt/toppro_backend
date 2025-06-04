@@ -206,3 +206,4 @@ feat: add order management API - README.md - commit 15
 refactor: optimize queries - src/modules/inventory/inventory.service.ts - commit 1
 feat: add pagination & filtering - prisma/schema.prisma - commit 2
 feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 3
+feat: integrate PostgreSQL with Prisma - README.md - commit 4
