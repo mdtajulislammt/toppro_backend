@@ -208,3 +208,4 @@ feat: add pagination & filtering - prisma/schema.prisma - commit 2
 feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 3
 feat: integrate PostgreSQL with Prisma - README.md - commit 4
 feat: add order management API - src/modules/user/user.service.ts - commit 5
+docs: update API documentation - prisma/schema.prisma - commit 6
