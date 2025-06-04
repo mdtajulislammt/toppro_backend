@@ -216,3 +216,4 @@ feat: create inventory module - src/modules/user/user.service.ts - commit 10
 feat: setup project structure (NestJS) - README.md - commit 11
 feat: implement user CRUD API - README.md - commit 12
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 13
+feat: integrate PostgreSQL with Prisma - README.md - commit 14
