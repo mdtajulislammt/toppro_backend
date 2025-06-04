@@ -218,3 +218,4 @@ feat: implement user CRUD API - README.md - commit 12
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 13
 feat: integrate PostgreSQL with Prisma - README.md - commit 14
 refactor: optimize queries - src/modules/order/order.service.ts - commit 15
+fix: resolve auth issue - src/modules/auth/auth.service.ts - commit 16
