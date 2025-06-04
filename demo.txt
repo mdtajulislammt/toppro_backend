@@ -210,3 +210,4 @@ feat: integrate PostgreSQL with Prisma - README.md - commit 4
 feat: add order management API - src/modules/user/user.service.ts - commit 5
 docs: update API documentation - prisma/schema.prisma - commit 6
 refactor: optimize queries - src/modules/auth/auth.service.ts - commit 7
+feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 8
