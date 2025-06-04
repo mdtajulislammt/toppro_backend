@@ -222,3 +222,4 @@ fix: resolve auth issue - src/modules/auth/auth.service.ts - commit 16
 fix: inventory stock bug - src/modules/product/product.service.ts - commit 17
 chore: update configs - src/common/utils/helpers.ts - commit 18
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 19
+chore: update configs - README.md - commit 20
