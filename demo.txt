@@ -237,3 +237,4 @@ feat: setup project structure (NestJS) - src/modules/user/user.service.ts - comm
 feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 11
 fix: inventory stock bug - src/modules/auth/auth.service.ts - commit 12
 feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 13
+chore: update configs - src/modules/auth/auth.service.ts - commit 14
