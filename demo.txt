@@ -232,3 +232,4 @@ feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - comm
 feat: add order management API - src/common/utils/helpers.ts - commit 6
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 7
 refactor: optimize queries - README.md - commit 8
+feat: implement user CRUD API - src/modules/product/product.service.ts - commit 9
