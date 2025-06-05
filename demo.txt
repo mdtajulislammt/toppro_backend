@@ -234,3 +234,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - comm
 refactor: optimize queries - README.md - commit 8
 feat: implement user CRUD API - src/modules/product/product.service.ts - commit 9
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 10
+feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 11
