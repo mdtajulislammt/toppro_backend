@@ -227,3 +227,4 @@ fix: resolve auth issue - src/modules/user/user.service.ts - commit 21
 feat: add order management API - prisma/schema.prisma - commit 1
 feat: add pagination & filtering - src/modules/inventory/inventory.service.ts - commit 2
 chore: update configs - prisma/schema.prisma - commit 3
+feat: setup project structure (NestJS) - src/modules/product/product.service.ts - commit 4
