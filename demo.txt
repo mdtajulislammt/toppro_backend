@@ -224,3 +224,4 @@ chore: update configs - src/common/utils/helpers.ts - commit 18
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 19
 chore: update configs - README.md - commit 20
 fix: resolve auth issue - src/modules/user/user.service.ts - commit 21
+feat: add order management API - prisma/schema.prisma - commit 1
