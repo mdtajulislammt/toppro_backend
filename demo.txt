@@ -240,3 +240,4 @@ feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 13
 chore: update configs - src/modules/auth/auth.service.ts - commit 14
 feat: create inventory module - README.md - commit 15
 refactor: optimize queries - src/modules/auth/auth.service.ts - commit 16
+feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - commit 17
