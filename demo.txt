@@ -246,3 +246,4 @@ feat: add RBAC system - src/modules/user/user.service.ts - commit 1
 feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 2
 feat: implement validation - src/modules/order/order.service.ts - commit 3
 chore: update configs - README.md - commit 4
+feat: add pagination & filtering - src/modules/inventory/inventory.service.ts - commit 5
