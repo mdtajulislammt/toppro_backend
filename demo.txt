@@ -254,3 +254,4 @@ feat: setup project structure (NestJS) - prisma/schema.prisma - commit 9
 feat: setup project structure (NestJS) - README.md - commit 10
 fix: resolve auth issue - src/modules/auth/auth.service.ts - commit 11
 feat: add auth module with JWT - src/modules/user/user.service.ts - commit 12
+feat: add RBAC system - prisma/schema.prisma - commit 13
