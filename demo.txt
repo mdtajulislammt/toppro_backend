@@ -260,3 +260,4 @@ docs: update API documentation - src/common/utils/helpers.ts - commit 15
 chore: update configs - README.md - commit 16
 feat: add order management API - src/modules/inventory/inventory.service.ts - commit 17
 feat: add pagination & filtering - src/modules/order/order.service.ts - commit 18
+feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service.ts - commit 19
