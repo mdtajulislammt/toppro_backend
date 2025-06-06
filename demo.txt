@@ -251,3 +251,4 @@ feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - comm
 fix: inventory stock bug - README.md - commit 7
 feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 8
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 9
+feat: setup project structure (NestJS) - README.md - commit 10
