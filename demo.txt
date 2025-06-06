@@ -245,3 +245,4 @@ feat: integrate Redis caching - prisma/schema.prisma - commit 18
 feat: add RBAC system - src/modules/user/user.service.ts - commit 1
 feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 2
 feat: implement validation - src/modules/order/order.service.ts - commit 3
+chore: update configs - README.md - commit 4
