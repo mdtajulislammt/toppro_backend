@@ -263,3 +263,4 @@ feat: add pagination & filtering - src/modules/order/order.service.ts - commit 1
 feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service.ts - commit 19
 feat: add RBAC system - src/common/utils/helpers.ts - commit 20
 feat: create inventory module - src/modules/auth/auth.service.ts - commit 21
+refactor: optimize queries - src/modules/order/order.service.ts - commit 22
