@@ -22,3 +22,4 @@
 // update feat: create inventory module
 // update feat: integrate PostgreSQL with Prisma
 // update fix: resolve auth issue
+// update feat: setup project structure (NestJS)
