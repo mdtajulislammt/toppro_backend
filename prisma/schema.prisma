@@ -2630,3 +2630,4 @@ model ControllerSettings {
 // update chore: update configs
 // update fix: inventory stock bug
 // update fix: resolve auth issue
+// update fix: resolve auth issue
