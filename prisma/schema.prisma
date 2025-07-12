@@ -2620,3 +2620,4 @@ model ControllerSettings {
 // update feat: add pagination & filtering
 // update feat: integrate PostgreSQL with Prisma
 // update feat: add RBAC system
+// update chore: update configs
