@@ -21,3 +21,4 @@
 // update feat: integrate Redis caching
 // update feat: add RBAC system
 // update fix: API response formatting issue
+// update fix: resolve auth issue
