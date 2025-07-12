@@ -2631,3 +2631,4 @@ model ControllerSettings {
 // update fix: inventory stock bug
 // update fix: resolve auth issue
 // update fix: resolve auth issue
+// update feat: add RBAC system
