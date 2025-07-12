@@ -32,3 +32,4 @@
 // update feat: add auth module with JWT
 // update feat: add order management API
 // update fix: API response formatting issue
+// update chore: update configs
