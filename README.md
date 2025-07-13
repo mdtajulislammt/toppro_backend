@@ -104,3 +104,4 @@ Swagger: http://{domain_name}/api/docs
 // update fix: inventory stock bug
 // update feat: integrate PostgreSQL with Prisma
 // update feat: implement user CRUD API
+// update feat: add order management API
