@@ -2632,3 +2632,4 @@ model ControllerSettings {
 // update fix: resolve auth issue
 // update fix: resolve auth issue
 // update feat: add RBAC system
+// update feat: implement validation
