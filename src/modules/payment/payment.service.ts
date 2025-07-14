@@ -12,3 +12,4 @@
 // update feat: implement user CRUD API
 // update refactor: improve service architecture
 // update feat: add RBAC system
+// update feat: add notification module
