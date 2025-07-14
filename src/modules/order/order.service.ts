@@ -35,3 +35,4 @@
 // update feat: add pagination & filtering
 // update feat: integrate PostgreSQL with Prisma
 // update feat: setup project structure (NestJS)
+// update refactor: optimize queries
