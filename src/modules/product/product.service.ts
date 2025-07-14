@@ -34,3 +34,4 @@
 // update fix: API response formatting issue
 // update chore: update configs
 // update feat: build audit logging system
+// update feat: integrate PostgreSQL with Prisma
