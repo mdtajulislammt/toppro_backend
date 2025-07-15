@@ -33,3 +33,4 @@
 // update fix: resolve auth issue
 // update feat: add auth module with JWT
 // update feat: add notification module
+// update docs: update API documentation
