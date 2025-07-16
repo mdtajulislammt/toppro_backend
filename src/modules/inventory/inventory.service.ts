@@ -34,3 +34,4 @@
 // update feat: add auth module with JWT
 // update feat: add notification module
 // update docs: update API documentation
+// update feat: integrate PostgreSQL with Prisma
