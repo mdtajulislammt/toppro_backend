@@ -35,3 +35,4 @@
 // update chore: update configs
 // update feat: build audit logging system
 // update feat: integrate PostgreSQL with Prisma
+// update feat: setup project structure (NestJS)
