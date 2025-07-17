@@ -37,3 +37,4 @@
 // update feat: setup project structure (NestJS)
 // update refactor: optimize queries
 // update feat: implement user CRUD API
+// update feat: add pagination & filtering
