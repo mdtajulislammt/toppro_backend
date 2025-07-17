@@ -25,3 +25,4 @@
 // update fix: inventory stock bug
 // update feat: add pagination & filtering
 // update feat: integrate Redis caching
+// update refactor: improve service architecture
