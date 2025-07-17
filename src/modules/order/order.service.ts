@@ -29,3 +29,4 @@
 // update feat: implement validation
 // update fix: API response formatting issue
 // update feat: integrate Redis caching
+// update fix: resolve auth issue
