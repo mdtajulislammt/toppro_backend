@@ -26,3 +26,4 @@
 // update feat: add pagination & filtering
 // update feat: integrate Redis caching
 // update refactor: improve service architecture
+// update chore: update configs
