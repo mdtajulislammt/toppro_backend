@@ -2623,3 +2623,4 @@ model ControllerSettings {
 // update chore: update configs
 // update feat: integrate Redis caching
 // update feat: add RBAC system
+// update feat: implement validation
