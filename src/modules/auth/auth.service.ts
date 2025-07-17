@@ -1517,3 +1517,4 @@ export class AuthService {
 // update feat: integrate PostgreSQL with Prisma
 // update feat: create inventory module
 // update feat: implement validation
+// update feat: integrate Redis caching
