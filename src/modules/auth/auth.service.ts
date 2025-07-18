@@ -1518,3 +1518,4 @@ export class AuthService {
 // update feat: create inventory module
 // update feat: implement validation
 // update feat: integrate Redis caching
+// update feat: add auth module with JWT
