@@ -6,3 +6,4 @@
 // update feat: add pagination & filtering
 // update feat: setup project structure (NestJS)
 // update docs: update API documentation
+// update chore: update configs
