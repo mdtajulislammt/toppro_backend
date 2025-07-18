@@ -30,3 +30,4 @@
 // update fix: API response formatting issue
 // update feat: integrate Redis caching
 // update fix: resolve auth issue
+// update refactor: improve service architecture
