@@ -32,3 +32,4 @@
 // update feat: add pagination & filtering
 // update fix: resolve auth issue
 // update feat: add auth module with JWT
+// update feat: implement validation
