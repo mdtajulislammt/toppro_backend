@@ -25,3 +25,4 @@
 // update feat: setup project structure (NestJS)
 // update refactor: optimize queries
 // update refactor: optimize queries
+// update docs: update API documentation
