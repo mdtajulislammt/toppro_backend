@@ -123,3 +123,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: implement user CRUD API
 // update feat: add notification module
 // update feat: integrate PostgreSQL with Prisma
+// update feat: add pagination & filtering
