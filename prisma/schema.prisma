@@ -2634,3 +2634,4 @@ model ControllerSettings {
 // update feat: add RBAC system
 // update feat: implement validation
 // update fix: inventory stock bug
+// update docs: update API documentation
