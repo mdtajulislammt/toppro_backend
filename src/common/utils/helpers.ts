@@ -34,3 +34,4 @@
 // update feat: add auth module with JWT
 // update feat: implement validation
 // update feat: setup project structure (NestJS)
+// update feat: build audit logging system
