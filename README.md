@@ -110,3 +110,4 @@ Swagger: http://{domain_name}/api/docs
 // update refactor: optimize queries
 // update feat: implement user CRUD API
 // update feat: implement validation
+// update feat: integrate Redis caching
