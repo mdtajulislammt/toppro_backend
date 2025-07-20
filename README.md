@@ -109,3 +109,4 @@ Swagger: http://{domain_name}/api/docs
 // update fix: API response formatting issue
 // update refactor: optimize queries
 // update feat: implement user CRUD API
+// update feat: implement validation
