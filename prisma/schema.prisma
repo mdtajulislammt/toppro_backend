@@ -2625,3 +2625,4 @@ model ControllerSettings {
 // update feat: add RBAC system
 // update feat: implement validation
 // update feat: add order management API
+// update feat: add notification module
