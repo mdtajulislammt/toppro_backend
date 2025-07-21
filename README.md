@@ -113,3 +113,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: integrate Redis caching
 // update fix: resolve auth issue
 // update feat: integrate Redis caching
+// update fix: API response formatting issue
