@@ -38,3 +38,4 @@
 // update refactor: optimize queries
 // update feat: implement user CRUD API
 // update feat: add pagination & filtering
+// update feat: create inventory module
