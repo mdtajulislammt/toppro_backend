@@ -2627,3 +2627,4 @@ model ControllerSettings {
 // update feat: add order management API
 // update feat: add notification module
 // update feat: create inventory module
+// update chore: update configs
