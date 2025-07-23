@@ -116,3 +116,4 @@ Swagger: http://{domain_name}/api/docs
 // update fix: API response formatting issue
 // update feat: add notification module
 // update feat: add order management API
+// update refactor: optimize queries
