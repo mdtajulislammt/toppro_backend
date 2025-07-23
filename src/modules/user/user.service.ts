@@ -36,3 +36,4 @@
 // update feat: add pagination & filtering
 // update fix: inventory stock bug
 // update feat: implement validation
+// update fix: resolve auth issue
