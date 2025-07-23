@@ -38,3 +38,4 @@
 // update feat: setup project structure (NestJS)
 // update fix: inventory stock bug
 // update fix: resolve auth issue
+// update feat: add auth module with JWT
