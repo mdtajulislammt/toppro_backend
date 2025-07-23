@@ -32,3 +32,4 @@
 // update fix: resolve auth issue
 // update refactor: improve service architecture
 // update feat: integrate PostgreSQL with Prisma
+// update feat: add pagination & filtering
