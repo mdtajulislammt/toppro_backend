@@ -35,3 +35,4 @@
 // update feat: add notification module
 // update docs: update API documentation
 // update feat: integrate PostgreSQL with Prisma
+// update feat: add notification module
