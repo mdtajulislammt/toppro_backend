@@ -29,3 +29,4 @@
 // update chore: update configs
 // update feat: implement validation
 // update feat: add order management API
+// update fix: inventory stock bug
