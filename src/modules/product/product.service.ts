@@ -28,3 +28,4 @@
 // update docs: update API documentation
 // update feat: add pagination & filtering
 // update feat: integrate Redis caching
+// update feat: add notification module
