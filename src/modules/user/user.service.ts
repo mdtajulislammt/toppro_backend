@@ -30,3 +30,4 @@
 // update fix: resolve auth issue
 // update feat: integrate PostgreSQL with Prisma
 // update feat: integrate Redis caching
+// update chore: update configs
