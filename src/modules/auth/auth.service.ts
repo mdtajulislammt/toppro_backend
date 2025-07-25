@@ -1511,3 +1511,4 @@ export class AuthService {
 // update feat: setup project structure (NestJS)
 // update feat: implement payment flow (mock)
 // update feat: build audit logging system
+// update feat: implement user CRUD API
