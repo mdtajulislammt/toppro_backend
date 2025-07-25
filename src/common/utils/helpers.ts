@@ -26,3 +26,4 @@
 // update fix: API response formatting issue
 // update feat: setup project structure (NestJS)
 // update fix: API response formatting issue
+// update fix: resolve auth issue
