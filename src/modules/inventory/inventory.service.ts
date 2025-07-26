@@ -37,3 +37,4 @@
 // update feat: integrate PostgreSQL with Prisma
 // update feat: add notification module
 // update fix: API response formatting issue
+// update feat: add auth module with JWT
