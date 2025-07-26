@@ -3,3 +3,4 @@
 // update feat: add auth module with JWT
 // update docs: update API documentation
 // update feat: build audit logging system
+// update refactor: improve service architecture
