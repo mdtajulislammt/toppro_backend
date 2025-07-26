@@ -1512,3 +1512,4 @@ export class AuthService {
 // update feat: implement payment flow (mock)
 // update feat: build audit logging system
 // update feat: implement user CRUD API
+// update fix: API response formatting issue
