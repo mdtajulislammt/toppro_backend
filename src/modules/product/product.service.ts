@@ -39,3 +39,4 @@
 // update fix: inventory stock bug
 // update fix: resolve auth issue
 // update feat: add auth module with JWT
+// update refactor: improve service architecture
