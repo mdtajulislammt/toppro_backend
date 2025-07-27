@@ -1521,3 +1521,4 @@ export class AuthService {
 // update feat: add auth module with JWT
 // update feat: create inventory module
 // update chore: update configs
+// update fix: resolve auth issue
