@@ -39,3 +39,4 @@
 // update fix: API response formatting issue
 // update feat: add auth module with JWT
 // update feat: build audit logging system
+// update feat: add pagination & filtering
