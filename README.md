@@ -118,3 +118,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: add order management API
 // update refactor: optimize queries
 // update feat: add order management API
+// update feat: integrate PostgreSQL with Prisma
