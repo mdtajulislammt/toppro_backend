@@ -41,3 +41,4 @@
 // update feat: build audit logging system
 // update feat: add pagination & filtering
 // update fix: inventory stock bug
+// update refactor: improve service architecture
