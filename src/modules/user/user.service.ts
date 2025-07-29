@@ -31,3 +31,4 @@
 // update feat: integrate PostgreSQL with Prisma
 // update feat: integrate Redis caching
 // update chore: update configs
+// update feat: add RBAC system
