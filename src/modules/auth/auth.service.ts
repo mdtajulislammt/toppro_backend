@@ -1513,3 +1513,4 @@ export class AuthService {
 // update feat: build audit logging system
 // update feat: implement user CRUD API
 // update fix: API response formatting issue
+// update refactor: improve service architecture
