@@ -1522,3 +1522,4 @@ export class AuthService {
 // update feat: create inventory module
 // update chore: update configs
 // update fix: resolve auth issue
+// update feat: integrate PostgreSQL with Prisma
