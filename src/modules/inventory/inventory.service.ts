@@ -43,3 +43,4 @@
 // update fix: inventory stock bug
 // update refactor: improve service architecture
 // update feat: add order management API
+// update feat: create inventory module
