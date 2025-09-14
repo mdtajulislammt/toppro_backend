@@ -44,3 +44,4 @@
 // update feat: implement payment flow (mock)
 // update feat: create inventory module
 // update feat: add pagination & filtering
+// update feat: integrate PostgreSQL with Prisma
