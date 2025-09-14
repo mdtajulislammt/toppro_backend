@@ -44,3 +44,4 @@
 // update refactor: improve service architecture
 // update feat: add order management API
 // update feat: create inventory module
+// update feat: integrate Redis caching
