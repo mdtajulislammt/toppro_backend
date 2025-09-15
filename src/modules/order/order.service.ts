@@ -45,3 +45,4 @@
 // update feat: create inventory module
 // update feat: add pagination & filtering
 // update feat: integrate PostgreSQL with Prisma
+// update fix: API response formatting issue
