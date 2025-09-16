@@ -11,3 +11,4 @@
 // update fix: API response formatting issue
 // update feat: add auth module with JWT
 // update feat: integrate PostgreSQL with Prisma
+// update docs: update API documentation
