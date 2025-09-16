@@ -38,3 +38,4 @@
 // update docs: update API documentation
 // update feat: setup project structure (NestJS)
 // update refactor: optimize queries
+// update feat: add pagination & filtering
