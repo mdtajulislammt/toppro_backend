@@ -40,3 +40,4 @@
 // update refactor: optimize queries
 // update feat: add pagination & filtering
 // update feat: add notification module
+// update feat: integrate Redis caching
