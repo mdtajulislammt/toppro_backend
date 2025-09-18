@@ -13,3 +13,4 @@
 // update feat: integrate PostgreSQL with Prisma
 // update docs: update API documentation
 // update feat: add order management API
+// update feat: add auth module with JWT
