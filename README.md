@@ -125,3 +125,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: integrate PostgreSQL with Prisma
 // update feat: add pagination & filtering
 // update fix: inventory stock bug
+// update docs: update API documentation
