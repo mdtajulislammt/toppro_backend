@@ -43,3 +43,4 @@
 // update fix: resolve auth issue
 // update fix: resolve auth issue
 // update fix: resolve auth issue
+// update feat: create inventory module
