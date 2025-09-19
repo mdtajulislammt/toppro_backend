@@ -46,3 +46,4 @@
 // update feat: add pagination & filtering
 // update feat: integrate PostgreSQL with Prisma
 // update fix: API response formatting issue
+// update feat: add notification module
