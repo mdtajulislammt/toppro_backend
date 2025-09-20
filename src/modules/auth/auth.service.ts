@@ -1525,3 +1525,4 @@ export class AuthService {
 // update feat: integrate PostgreSQL with Prisma
 // update feat: implement validation
 // update feat: add notification module
+// update feat: implement payment flow (mock)
