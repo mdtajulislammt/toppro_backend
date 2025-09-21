@@ -530,3 +530,4 @@ feat: create inventory module - src/modules/order/order.service.ts - commit 14
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 15
 feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - commit 16
 feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 17
+feat: create inventory module - README.md - commit 18
