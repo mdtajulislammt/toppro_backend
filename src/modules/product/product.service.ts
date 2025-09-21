@@ -44,3 +44,4 @@
 // update fix: resolve auth issue
 // update fix: resolve auth issue
 // update feat: create inventory module
+// update feat: add notification module
