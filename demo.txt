@@ -532,3 +532,4 @@ feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - co
 feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 17
 feat: create inventory module - README.md - commit 18
 feat: add auth module with JWT - README.md - commit 19
+refactor: optimize queries - src/modules/user/user.service.ts - commit 20
