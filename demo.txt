@@ -518,3 +518,4 @@ fix: resolve auth issue - src/common/utils/helpers.ts - commit 2
 feat: implement user CRUD API - README.md - commit 3
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 4
 feat: implement user CRUD API - src/modules/inventory/inventory.service.ts - commit 5
+feat: create inventory module - prisma/schema.prisma - commit 6
