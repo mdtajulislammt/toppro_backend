@@ -513,3 +513,4 @@ feat: create inventory module - src/modules/inventory/inventory.service.ts - com
 feat: add order management API - src/common/utils/helpers.ts - commit 13
 feat: add auth module with JWT - src/common/utils/helpers.ts - commit 14
 feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 15
+feat: implement validation - README.md - commit 1
