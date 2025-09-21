@@ -126,3 +126,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: add pagination & filtering
 // update fix: inventory stock bug
 // update docs: update API documentation
+// update feat: implement payment flow (mock)
