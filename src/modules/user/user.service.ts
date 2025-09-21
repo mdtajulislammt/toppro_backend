@@ -43,3 +43,4 @@
 // update feat: add RBAC system
 // update feat: add notification module
 // update fix: resolve auth issue
+// update feat: setup project structure (NestJS)
