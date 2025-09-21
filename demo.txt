@@ -514,3 +514,4 @@ feat: add order management API - src/common/utils/helpers.ts - commit 13
 feat: add auth module with JWT - src/common/utils/helpers.ts - commit 14
 feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 15
 feat: implement validation - README.md - commit 1
+fix: resolve auth issue - src/common/utils/helpers.ts - commit 2
