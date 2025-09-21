@@ -524,3 +524,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - comm
 feat: integrate Redis caching - prisma/schema.prisma - commit 9
 feat: add order management API - src/modules/product/product.service.ts - commit 10
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 11
+fix: resolve auth issue - prisma/schema.prisma - commit 12
