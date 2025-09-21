@@ -515,3 +515,4 @@ feat: add auth module with JWT - src/common/utils/helpers.ts - commit 14
 feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 15
 feat: implement validation - README.md - commit 1
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 2
+feat: implement user CRUD API - README.md - commit 3
