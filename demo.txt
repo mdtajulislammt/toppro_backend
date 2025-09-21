@@ -522,3 +522,4 @@ feat: create inventory module - prisma/schema.prisma - commit 6
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 7
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 8
 feat: integrate Redis caching - prisma/schema.prisma - commit 9
+feat: add order management API - src/modules/product/product.service.ts - commit 10
