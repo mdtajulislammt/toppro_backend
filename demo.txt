@@ -554,3 +554,4 @@ feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 18
 feat: integrate Redis caching - prisma/schema.prisma - commit 19
 fix: inventory stock bug - src/modules/user/user.service.ts - commit 20
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 21
+feat: create inventory module - src/modules/inventory/inventory.service.ts - commit 22
