@@ -548,3 +548,4 @@ docs: update API documentation - src/modules/auth/auth.service.ts - commit 12
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 13
 feat: setup project structure (NestJS) - README.md - commit 14
 chore: update configs - src/modules/user/user.service.ts - commit 15
+refactor: optimize queries - src/modules/order/order.service.ts - commit 16
