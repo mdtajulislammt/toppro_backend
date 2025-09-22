@@ -534,3 +534,4 @@ feat: create inventory module - README.md - commit 18
 feat: add auth module with JWT - README.md - commit 19
 refactor: optimize queries - src/modules/user/user.service.ts - commit 20
 refactor: optimize queries - src/modules/auth/auth.service.ts - commit 1
+feat: setup project structure (NestJS) - README.md - commit 2
