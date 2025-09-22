@@ -14,3 +14,4 @@
 // update docs: update API documentation
 // update feat: add order management API
 // update feat: add auth module with JWT
+// update feat: add auth module with JWT
