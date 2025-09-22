@@ -44,3 +44,4 @@
 // update feat: add notification module
 // update fix: resolve auth issue
 // update feat: setup project structure (NestJS)
+// update chore: update configs
