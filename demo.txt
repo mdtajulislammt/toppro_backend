@@ -566,3 +566,4 @@ feat: create inventory module - src/common/utils/helpers.ts - commit 8
 feat: integrate Redis caching - README.md - commit 9
 fix: inventory stock bug - prisma/schema.prisma - commit 10
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 11
+docs: update API documentation - src/modules/inventory/inventory.service.ts - commit 12
