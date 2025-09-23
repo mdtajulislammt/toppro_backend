@@ -576,3 +576,4 @@ feat: integrate Redis caching - README.md - commit 18
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 19
 feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 20
 feat: implement user CRUD API - src/modules/order/order.service.ts - commit 21
+feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - commit 22
