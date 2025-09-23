@@ -1527,3 +1527,4 @@ export class AuthService {
 // update feat: add notification module
 // update feat: implement payment flow (mock)
 // update fix: inventory stock bug
+// update feat: add pagination & filtering
