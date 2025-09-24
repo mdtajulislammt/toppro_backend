@@ -587,3 +587,4 @@ feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 7
 feat: implement user CRUD API - src/common/utils/helpers.ts - commit 8
 feat: setup project structure (NestJS) - README.md - commit 9
 chore: update configs - src/modules/order/order.service.ts - commit 10
+feat: create inventory module - src/common/utils/helpers.ts - commit 11
