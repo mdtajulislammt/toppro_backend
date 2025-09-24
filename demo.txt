@@ -579,3 +579,4 @@ feat: implement user CRUD API - src/modules/order/order.service.ts - commit 21
 feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - commit 22
 feat: add order management API - README.md - commit 1
 chore: update configs - src/modules/product/product.service.ts - commit 2
+feat: integrate Redis caching - README.md - commit 3
