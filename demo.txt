@@ -585,3 +585,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/auth/auth.service.ts - comm
 docs: update API documentation - src/modules/product/product.service.ts - commit 6
 feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 7
 feat: implement user CRUD API - src/common/utils/helpers.ts - commit 8
+feat: setup project structure (NestJS) - README.md - commit 9
