@@ -47,3 +47,4 @@
 // update feat: integrate Redis caching
 // update feat: add order management API
 // update chore: update configs
+// update feat: add auth module with JWT
