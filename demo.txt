@@ -612,3 +612,4 @@ docs: update API documentation - README.md - commit 11
 docs: update API documentation - src/common/utils/helpers.ts - commit 12
 feat: implement validation - src/common/utils/helpers.ts - commit 13
 fix: inventory stock bug - src/modules/auth/auth.service.ts - commit 14
+feat: add RBAC system - README.md - commit 15
