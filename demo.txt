@@ -599,3 +599,4 @@ chore: update configs - prisma/schema.prisma - commit 19
 feat: implement validation - src/modules/product/product.service.ts - commit 20
 feat: integrate Redis caching - README.md - commit 21
 docs: update API documentation - src/modules/user/user.service.ts - commit 1
+feat: add auth module with JWT - src/modules/user/user.service.ts - commit 2
