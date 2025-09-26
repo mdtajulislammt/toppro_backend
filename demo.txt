@@ -628,3 +628,4 @@ docs: update API documentation - src/common/utils/helpers.ts - commit 11
 feat: add auth module with JWT - src/modules/auth/auth.service.ts - commit 12
 feat: add auth module with JWT - src/modules/order/order.service.ts - commit 13
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 14
+fix: resolve auth issue - prisma/schema.prisma - commit 15
