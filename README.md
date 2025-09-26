@@ -127,3 +127,4 @@ Swagger: http://{domain_name}/api/docs
 // update fix: inventory stock bug
 // update docs: update API documentation
 // update feat: implement payment flow (mock)
+// update feat: add auth module with JWT
