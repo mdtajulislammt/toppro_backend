@@ -624,3 +624,4 @@ fix: inventory stock bug - prisma/schema.prisma - commit 7
 feat: add auth module with JWT - src/modules/product/product.service.ts - commit 8
 refactor: optimize queries - src/modules/auth/auth.service.ts - commit 9
 chore: update configs - src/modules/auth/auth.service.ts - commit 10
+docs: update API documentation - src/common/utils/helpers.ts - commit 11
