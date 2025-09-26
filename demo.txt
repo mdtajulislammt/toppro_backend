@@ -616,3 +616,4 @@ feat: add RBAC system - README.md - commit 15
 refactor: optimize queries - src/modules/product/product.service.ts - commit 16
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 1
 feat: implement validation - prisma/schema.prisma - commit 2
+chore: update configs - src/modules/order/order.service.ts - commit 3
