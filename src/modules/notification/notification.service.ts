@@ -17,3 +17,4 @@
 // update feat: add auth module with JWT
 // update feat: integrate PostgreSQL with Prisma
 // update refactor: optimize queries
+// update feat: add notification module
