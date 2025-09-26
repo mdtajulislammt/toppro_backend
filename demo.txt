@@ -625,3 +625,4 @@ feat: add auth module with JWT - src/modules/product/product.service.ts - commit
 refactor: optimize queries - src/modules/auth/auth.service.ts - commit 9
 chore: update configs - src/modules/auth/auth.service.ts - commit 10
 docs: update API documentation - src/common/utils/helpers.ts - commit 11
+feat: add auth module with JWT - src/modules/auth/auth.service.ts - commit 12
