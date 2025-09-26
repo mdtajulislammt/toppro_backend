@@ -2643,3 +2643,4 @@ model ControllerSettings {
 // update feat: add order management API
 // update feat: integrate Redis caching
 // update feat: setup project structure (NestJS)
+// update feat: add notification module
