@@ -634,3 +634,4 @@ fix: inventory stock bug - src/common/utils/helpers.ts - commit 17
 feat: create inventory module - prisma/schema.prisma - commit 18
 feat: create inventory module - src/modules/order/order.service.ts - commit 19
 refactor: optimize queries - prisma/schema.prisma - commit 1
+fix: inventory stock bug - src/common/utils/helpers.ts - commit 2
