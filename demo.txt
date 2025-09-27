@@ -652,3 +652,4 @@ feat: implement user CRUD API - src/modules/user/user.service.ts - commit 16
 feat: implement validation - src/common/utils/helpers.ts - commit 17
 refactor: optimize queries - src/modules/order/order.service.ts - commit 18
 feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 19
+feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 20
