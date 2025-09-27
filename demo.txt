@@ -642,3 +642,4 @@ feat: add auth module with JWT - src/modules/user/user.service.ts - commit 6
 feat: integrate Redis caching - src/modules/inventory/inventory.service.ts - commit 7
 feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - commit 8
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 9
+feat: integrate Redis caching - src/common/utils/helpers.ts - commit 10
