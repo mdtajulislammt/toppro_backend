@@ -45,3 +45,4 @@
 // update fix: resolve auth issue
 // update feat: create inventory module
 // update feat: add notification module
+// update feat: add pagination & filtering
