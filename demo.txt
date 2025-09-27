@@ -644,3 +644,4 @@ feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - co
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 9
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 10
 chore: update configs - README.md - commit 11
+docs: update API documentation - src/modules/inventory/inventory.service.ts - commit 12
