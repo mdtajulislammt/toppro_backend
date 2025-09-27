@@ -650,3 +650,4 @@ chore: update configs - src/modules/inventory/inventory.service.ts - commit 14
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 15
 feat: implement user CRUD API - src/modules/user/user.service.ts - commit 16
 feat: implement validation - src/common/utils/helpers.ts - commit 17
+refactor: optimize queries - src/modules/order/order.service.ts - commit 18
