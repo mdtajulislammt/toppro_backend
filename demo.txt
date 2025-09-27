@@ -647,3 +647,4 @@ chore: update configs - README.md - commit 11
 docs: update API documentation - src/modules/inventory/inventory.service.ts - commit 12
 feat: add auth module with JWT - src/modules/order/order.service.ts - commit 13
 chore: update configs - src/modules/inventory/inventory.service.ts - commit 14
+feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 15
