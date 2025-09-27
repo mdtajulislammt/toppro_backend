@@ -637,3 +637,4 @@ refactor: optimize queries - prisma/schema.prisma - commit 1
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 2
 fix: resolve auth issue - README.md - commit 3
 feat: add pagination & filtering - prisma/schema.prisma - commit 4
+docs: update API documentation - src/common/utils/helpers.ts - commit 5
