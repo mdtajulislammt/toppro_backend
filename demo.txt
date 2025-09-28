@@ -658,3 +658,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - comm
 feat: add pagination & filtering - src/modules/product/product.service.ts - commit 3
 feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 4
 feat: add order management API - prisma/schema.prisma - commit 5
+feat: setup project structure (NestJS) - README.md - commit 6
