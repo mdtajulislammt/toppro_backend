@@ -668,3 +668,4 @@ feat: integrate Redis caching - src/modules/user/user.service.ts - commit 12
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 13
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 14
 feat: add RBAC system - src/modules/product/product.service.ts - commit 15
+chore: update configs - src/modules/product/product.service.ts - commit 16
