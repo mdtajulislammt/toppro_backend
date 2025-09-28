@@ -1529,3 +1529,4 @@ export class AuthService {
 // update fix: inventory stock bug
 // update feat: add pagination & filtering
 // update feat: implement validation
+// update feat: setup project structure (NestJS)
