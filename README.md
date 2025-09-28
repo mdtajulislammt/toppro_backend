@@ -129,3 +129,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: implement payment flow (mock)
 // update feat: add auth module with JWT
 // update feat: integrate PostgreSQL with Prisma
+// update fix: API response formatting issue
