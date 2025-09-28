@@ -669,3 +669,4 @@ fix: resolve auth issue - src/common/utils/helpers.ts - commit 13
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 14
 feat: add RBAC system - src/modules/product/product.service.ts - commit 15
 chore: update configs - src/modules/product/product.service.ts - commit 16
+feat: implement user CRUD API - src/modules/order/order.service.ts - commit 17
