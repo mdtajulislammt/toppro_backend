@@ -656,3 +656,4 @@ feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 20
 chore: update configs - prisma/schema.prisma - commit 1
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 2
 feat: add pagination & filtering - src/modules/product/product.service.ts - commit 3
+feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 4
