@@ -45,3 +45,4 @@
 // update feat: implement payment flow (mock)
 // update fix: resolve auth issue
 // update feat: add order management API
+// update feat: setup project structure (NestJS)
