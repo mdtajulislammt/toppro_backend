@@ -673,3 +673,4 @@ feat: implement user CRUD API - src/modules/order/order.service.ts - commit 17
 fix: inventory stock bug - src/modules/product/product.service.ts - commit 1
 fix: inventory stock bug - src/modules/user/user.service.ts - commit 2
 fix: inventory stock bug - README.md - commit 3
+chore: update configs - src/modules/inventory/inventory.service.ts - commit 4
