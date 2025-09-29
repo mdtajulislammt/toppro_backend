@@ -47,3 +47,4 @@
 // update feat: add notification module
 // update feat: add pagination & filtering
 // update feat: setup project structure (NestJS)
+// update refactor: improve service architecture
