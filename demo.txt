@@ -679,3 +679,4 @@ fix: inventory stock bug - src/modules/order/order.service.ts - commit 6
 feat: add pagination & filtering - README.md - commit 7
 feat: add order management API - src/modules/auth/auth.service.ts - commit 8
 docs: update API documentation - src/modules/user/user.service.ts - commit 9
+feat: add RBAC system - README.md - commit 10
