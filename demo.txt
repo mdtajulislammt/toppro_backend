@@ -677,3 +677,4 @@ chore: update configs - src/modules/inventory/inventory.service.ts - commit 4
 feat: add RBAC system - src/modules/auth/auth.service.ts - commit 5
 fix: inventory stock bug - src/modules/order/order.service.ts - commit 6
 feat: add pagination & filtering - README.md - commit 7
+feat: add order management API - src/modules/auth/auth.service.ts - commit 8
