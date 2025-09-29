@@ -46,3 +46,4 @@
 // update feat: setup project structure (NestJS)
 // update chore: update configs
 // update feat: setup project structure (NestJS)
+// update fix: inventory stock bug
