@@ -682,3 +682,4 @@ docs: update API documentation - src/modules/user/user.service.ts - commit 9
 feat: add RBAC system - README.md - commit 10
 feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 11
 feat: add order management API - src/modules/auth/auth.service.ts - commit 12
+feat: add RBAC system - README.md - commit 13
