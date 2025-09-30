@@ -706,3 +706,4 @@ feat: integrate Redis caching - src/modules/order/order.service.ts - commit 9
 fix: resolve auth issue - src/modules/inventory/inventory.service.ts - commit 10
 feat: add RBAC system - src/modules/order/order.service.ts - commit 11
 feat: implement validation - src/modules/auth/auth.service.ts - commit 12
+docs: update API documentation - src/modules/product/product.service.ts - commit 13
