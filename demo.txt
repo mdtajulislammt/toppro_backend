@@ -700,3 +700,4 @@ chore: update configs - src/common/utils/helpers.ts - commit 3
 feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 4
 feat: add order management API - src/modules/product/product.service.ts - commit 5
 refactor: optimize queries - README.md - commit 6
+chore: update configs - src/modules/user/user.service.ts - commit 7
