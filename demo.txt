@@ -694,3 +694,4 @@ feat: add auth module with JWT - src/modules/user/user.service.ts - commit 21
 chore: update configs - README.md - commit 22
 chore: update configs - README.md - commit 23
 feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service.ts - commit 24
+feat: add order management API - src/modules/product/product.service.ts - commit 1
