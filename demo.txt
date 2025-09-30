@@ -697,3 +697,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service
 feat: add order management API - src/modules/product/product.service.ts - commit 1
 chore: update configs - src/modules/inventory/inventory.service.ts - commit 2
 chore: update configs - src/common/utils/helpers.ts - commit 3
+feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 4
