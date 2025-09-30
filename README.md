@@ -130,3 +130,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: add auth module with JWT
 // update feat: integrate PostgreSQL with Prisma
 // update fix: API response formatting issue
+// update feat: add RBAC system
