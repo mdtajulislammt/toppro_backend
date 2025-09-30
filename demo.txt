@@ -701,3 +701,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - co
 feat: add order management API - src/modules/product/product.service.ts - commit 5
 refactor: optimize queries - README.md - commit 6
 chore: update configs - src/modules/user/user.service.ts - commit 7
+feat: add RBAC system - src/modules/auth/auth.service.ts - commit 8
