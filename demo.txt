@@ -725,3 +725,4 @@ chore: update configs - src/modules/order/order.service.ts - commit 13
 fix: resolve auth issue - src/modules/product/product.service.ts - commit 14
 refactor: optimize queries - README.md - commit 15
 fix: inventory stock bug - src/modules/user/user.service.ts - commit 16
+fix: resolve auth issue - src/modules/order/order.service.ts - commit 17
