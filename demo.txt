@@ -716,3 +716,4 @@ feat: add order management API - src/modules/order/order.service.ts - commit 4
 feat: add order management API - src/modules/product/product.service.ts - commit 5
 feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 6
 feat: implement validation - src/modules/order/order.service.ts - commit 7
+feat: implement validation - src/modules/inventory/inventory.service.ts - commit 8
