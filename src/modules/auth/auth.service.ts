@@ -1532,3 +1532,4 @@ export class AuthService {
 // update feat: setup project structure (NestJS)
 // update fix: resolve auth issue
 // update feat: add pagination & filtering
+// update feat: build audit logging system
