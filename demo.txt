@@ -711,3 +711,4 @@ refactor: optimize queries - prisma/schema.prisma - commit 14
 feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - commit 15
 feat: add RBAC system - src/modules/auth/auth.service.ts - commit 1
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 2
+feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - commit 3
