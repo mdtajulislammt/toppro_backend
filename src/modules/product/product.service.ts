@@ -48,3 +48,4 @@
 // update feat: add pagination & filtering
 // update feat: setup project structure (NestJS)
 // update refactor: improve service architecture
+// update feat: add auth module with JWT
