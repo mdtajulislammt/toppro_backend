@@ -722,3 +722,4 @@ feat: setup project structure (NestJS) - src/modules/product/product.service.ts 
 feat: add RBAC system - README.md - commit 11
 refactor: optimize queries - prisma/schema.prisma - commit 12
 chore: update configs - src/modules/order/order.service.ts - commit 13
+fix: resolve auth issue - src/modules/product/product.service.ts - commit 14
