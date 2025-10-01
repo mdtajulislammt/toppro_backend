@@ -720,3 +720,4 @@ feat: implement validation - src/modules/inventory/inventory.service.ts - commit
 feat: create inventory module - src/modules/user/user.service.ts - commit 9
 feat: setup project structure (NestJS) - src/modules/product/product.service.ts - commit 10
 feat: add RBAC system - README.md - commit 11
+refactor: optimize queries - prisma/schema.prisma - commit 12
