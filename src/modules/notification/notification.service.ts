@@ -18,3 +18,4 @@
 // update feat: integrate PostgreSQL with Prisma
 // update refactor: optimize queries
 // update feat: add notification module
+// update fix: resolve auth issue
