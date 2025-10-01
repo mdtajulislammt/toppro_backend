@@ -712,3 +712,4 @@ feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - comm
 feat: add RBAC system - src/modules/auth/auth.service.ts - commit 1
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 2
 feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - commit 3
+feat: add order management API - src/modules/order/order.service.ts - commit 4
