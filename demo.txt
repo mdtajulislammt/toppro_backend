@@ -728,3 +728,4 @@ fix: inventory stock bug - src/modules/user/user.service.ts - commit 16
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 17
 refactor: optimize queries - src/modules/product/product.service.ts - commit 1
 feat: implement user CRUD API - prisma/schema.prisma - commit 2
+feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 3
