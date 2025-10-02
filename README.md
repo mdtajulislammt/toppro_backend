@@ -133,3 +133,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: add RBAC system
 // update feat: add auth module with JWT
 // update feat: setup project structure (NestJS)
+// update docs: update API documentation
