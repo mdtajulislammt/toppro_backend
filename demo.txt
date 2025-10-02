@@ -736,3 +736,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - comm
 fix: resolve auth issue - src/modules/product/product.service.ts - commit 8
 docs: update API documentation - src/modules/user/user.service.ts - commit 9
 feat: implement user CRUD API - src/modules/inventory/inventory.service.ts - commit 10
+feat: implement validation - src/modules/product/product.service.ts - commit 11
