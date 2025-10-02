@@ -49,3 +49,4 @@
 // update chore: update configs
 // update feat: add auth module with JWT
 // update feat: add auth module with JWT
+// update feat: integrate PostgreSQL with Prisma
