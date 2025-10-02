@@ -1533,3 +1533,4 @@ export class AuthService {
 // update fix: resolve auth issue
 // update feat: add pagination & filtering
 // update feat: build audit logging system
+// update docs: update API documentation
