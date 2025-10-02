@@ -742,3 +742,4 @@ feat: create inventory module - src/modules/user/user.service.ts - commit 13
 feat: add RBAC system - prisma/schema.prisma - commit 14
 feat: implement validation - src/common/utils/helpers.ts - commit 15
 chore: update configs - src/modules/user/user.service.ts - commit 16
+feat: add pagination & filtering - src/modules/user/user.service.ts - commit 17
