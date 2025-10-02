@@ -741,3 +741,4 @@ docs: update API documentation - src/modules/inventory/inventory.service.ts - co
 feat: create inventory module - src/modules/user/user.service.ts - commit 13
 feat: add RBAC system - prisma/schema.prisma - commit 14
 feat: implement validation - src/common/utils/helpers.ts - commit 15
+chore: update configs - src/modules/user/user.service.ts - commit 16
