@@ -753,3 +753,4 @@ feat: implement validation - src/modules/inventory/inventory.service.ts - commit
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 6
 feat: add pagination & filtering - prisma/schema.prisma - commit 7
 refactor: optimize queries - src/modules/order/order.service.ts - commit 8
+feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 9
