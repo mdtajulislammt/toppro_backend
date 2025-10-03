@@ -1534,3 +1534,4 @@ export class AuthService {
 // update feat: add pagination & filtering
 // update feat: build audit logging system
 // update docs: update API documentation
+// update feat: setup project structure (NestJS)
