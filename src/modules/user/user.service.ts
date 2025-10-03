@@ -48,3 +48,4 @@
 // update feat: setup project structure (NestJS)
 // update fix: inventory stock bug
 // update feat: integrate Redis caching
+// update refactor: improve service architecture
