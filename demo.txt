@@ -766,3 +766,4 @@ feat: implement validation - README.md - commit 18
 fix: resolve auth issue - src/modules/product/product.service.ts - commit 19
 feat: implement user CRUD API - README.md - commit 20
 chore: update configs - src/modules/order/order.service.ts - commit 21
+feat: implement user CRUD API - README.md - commit 22
