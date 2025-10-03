@@ -758,3 +758,4 @@ feat: integrate Redis caching - src/common/utils/helpers.ts - commit 10
 fix: inventory stock bug - src/modules/order/order.service.ts - commit 11
 docs: update API documentation - src/common/utils/helpers.ts - commit 12
 docs: update API documentation - prisma/schema.prisma - commit 13
+feat: integrate Redis caching - src/common/utils/helpers.ts - commit 14
