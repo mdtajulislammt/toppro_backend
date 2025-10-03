@@ -49,3 +49,4 @@
 // update fix: inventory stock bug
 // update feat: integrate Redis caching
 // update refactor: improve service architecture
+// update feat: add RBAC system
