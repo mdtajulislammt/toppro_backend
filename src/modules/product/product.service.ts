@@ -50,3 +50,4 @@
 // update refactor: improve service architecture
 // update feat: add auth module with JWT
 // update fix: API response formatting issue
+// update feat: setup project structure (NestJS)
