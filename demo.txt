@@ -749,3 +749,4 @@ feat: setup project structure (NestJS) - README.md - commit 1
 feat: add RBAC system - src/modules/user/user.service.ts - commit 2
 feat: add order management API - src/modules/inventory/inventory.service.ts - commit 3
 feat: create inventory module - src/modules/user/user.service.ts - commit 4
+feat: implement validation - src/modules/inventory/inventory.service.ts - commit 5
