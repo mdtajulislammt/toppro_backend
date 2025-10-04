@@ -1535,3 +1535,4 @@ export class AuthService {
 // update feat: build audit logging system
 // update docs: update API documentation
 // update feat: setup project structure (NestJS)
+// update feat: setup project structure (NestJS)
