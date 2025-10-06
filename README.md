@@ -137,3 +137,4 @@ Swagger: http://{domain_name}/api/docs
 // update docs: update API documentation
 // update chore: update configs
 // update feat: implement validation
+// update feat: create inventory module
