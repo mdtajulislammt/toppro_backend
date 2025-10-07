@@ -2644,3 +2644,4 @@ model ControllerSettings {
 // update feat: integrate Redis caching
 // update feat: setup project structure (NestJS)
 // update feat: add notification module
+// update feat: add RBAC system
