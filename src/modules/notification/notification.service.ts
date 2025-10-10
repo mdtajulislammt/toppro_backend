@@ -20,3 +20,4 @@
 // update feat: add notification module
 // update fix: resolve auth issue
 // update feat: implement user CRUD API
+// update chore: update configs
