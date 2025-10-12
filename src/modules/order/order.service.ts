@@ -52,3 +52,4 @@
 // update feat: add pagination & filtering
 // update feat: integrate Redis caching
 // update feat: create inventory module
+// update feat: add RBAC system
