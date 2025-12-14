@@ -270,3 +270,4 @@ feat: add RBAC system - src/common/utils/helpers.ts - commit 1
 feat: add pagination & filtering - src/modules/user/user.service.ts - commit 2
 feat: integrate Redis caching - README.md - commit 3
 refactor: optimize queries - prisma/schema.prisma - commit 4
+refactor: optimize queries - README.md - commit 5
