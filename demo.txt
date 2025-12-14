@@ -275,3 +275,4 @@ feat: add pagination & filtering - prisma/schema.prisma - commit 6
 refactor: optimize queries - src/modules/user/user.service.ts - commit 7
 feat: add RBAC system - src/modules/order/order.service.ts - commit 8
 feat: add auth module with JWT - src/modules/order/order.service.ts - commit 9
+feat: create inventory module - src/modules/inventory/inventory.service.ts - commit 10
