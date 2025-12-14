@@ -267,3 +267,4 @@ refactor: optimize queries - src/modules/order/order.service.ts - commit 22
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 23
 docs: update API documentation - README.md - commit 24
 feat: add RBAC system - src/common/utils/helpers.ts - commit 1
+feat: add pagination & filtering - src/modules/user/user.service.ts - commit 2
