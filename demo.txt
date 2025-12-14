@@ -272,3 +272,4 @@ feat: integrate Redis caching - README.md - commit 3
 refactor: optimize queries - prisma/schema.prisma - commit 4
 refactor: optimize queries - README.md - commit 5
 feat: add pagination & filtering - prisma/schema.prisma - commit 6
+refactor: optimize queries - src/modules/user/user.service.ts - commit 7
