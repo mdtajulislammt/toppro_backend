@@ -297,3 +297,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service
 docs: update API documentation - prisma/schema.prisma - commit 10
 feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service.ts - commit 11
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 12
+feat: setup project structure (NestJS) - src/modules/inventory/inventory.service.ts - commit 13
