@@ -295,3 +295,4 @@ feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - comm
 feat: integrate Redis caching - src/modules/inventory/inventory.service.ts - commit 8
 feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service.ts - commit 9
 docs: update API documentation - prisma/schema.prisma - commit 10
+feat: integrate PostgreSQL with Prisma - src/modules/inventory/inventory.service.ts - commit 11
