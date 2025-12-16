@@ -319,3 +319,4 @@ fix: inventory stock bug - src/modules/product/product.service.ts - commit 13
 fix: resolve auth issue - README.md - commit 14
 feat: implement validation - src/modules/product/product.service.ts - commit 15
 feat: implement user CRUD API - src/modules/order/order.service.ts - commit 16
+chore: update configs - src/modules/inventory/inventory.service.ts - commit 17
