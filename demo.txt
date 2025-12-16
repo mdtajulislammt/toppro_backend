@@ -303,3 +303,4 @@ refactor: optimize queries - src/modules/inventory/inventory.service.ts - commit
 feat: integrate Redis caching - src/modules/order/order.service.ts - commit 16
 feat: create inventory module - src/modules/product/product.service.ts - commit 17
 feat: integrate PostgreSQL with Prisma - src/modules/product/product.service.ts - commit 18
+feat: integrate Redis caching - src/modules/order/order.service.ts - commit 1
