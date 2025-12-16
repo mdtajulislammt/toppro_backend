@@ -309,3 +309,4 @@ feat: add order management API - README.md - commit 3
 refactor: optimize queries - src/common/utils/helpers.ts - commit 4
 feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 5
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 6
+fix: resolve auth issue - src/common/utils/helpers.ts - commit 7
