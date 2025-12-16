@@ -307,3 +307,4 @@ feat: integrate Redis caching - src/modules/order/order.service.ts - commit 1
 feat: add pagination & filtering - src/common/utils/helpers.ts - commit 2
 feat: add order management API - README.md - commit 3
 refactor: optimize queries - src/common/utils/helpers.ts - commit 4
+feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 5
