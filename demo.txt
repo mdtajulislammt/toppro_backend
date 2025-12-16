@@ -316,3 +316,4 @@ feat: setup project structure (NestJS) - src/modules/order/order.service.ts - co
 feat: add RBAC system - src/modules/product/product.service.ts - commit 11
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 12
 fix: inventory stock bug - src/modules/product/product.service.ts - commit 13
+fix: resolve auth issue - README.md - commit 14
