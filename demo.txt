@@ -324,3 +324,4 @@ fix: inventory stock bug - src/modules/user/user.service.ts - commit 18
 fix: inventory stock bug - src/modules/order/order.service.ts - commit 19
 feat: setup project structure (NestJS) - README.md - commit 20
 refactor: optimize queries - README.md - commit 21
+feat: implement validation - src/modules/inventory/inventory.service.ts - commit 22
