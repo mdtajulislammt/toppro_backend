@@ -312,3 +312,4 @@ feat: setup project structure (NestJS) - prisma/schema.prisma - commit 6
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 7
 fix: inventory stock bug - prisma/schema.prisma - commit 8
 feat: add pagination & filtering - README.md - commit 9
+feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 10
