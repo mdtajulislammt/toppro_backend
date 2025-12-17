@@ -328,3 +328,4 @@ feat: implement validation - src/modules/inventory/inventory.service.ts - commit
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 1
 feat: add pagination & filtering - prisma/schema.prisma - commit 2
 fix: inventory stock bug - src/modules/inventory/inventory.service.ts - commit 3
+fix: inventory stock bug - src/modules/product/product.service.ts - commit 4
