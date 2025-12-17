@@ -326,3 +326,4 @@ feat: setup project structure (NestJS) - README.md - commit 20
 refactor: optimize queries - README.md - commit 21
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 22
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 1
+feat: add pagination & filtering - prisma/schema.prisma - commit 2
