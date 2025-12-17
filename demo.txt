@@ -335,3 +335,4 @@ feat: add auth module with JWT - README.md - commit 7
 feat: implement validation - src/modules/product/product.service.ts - commit 8
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 9
 feat: implement validation - README.md - commit 10
+fix: inventory stock bug - prisma/schema.prisma - commit 11
