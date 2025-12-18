@@ -350,3 +350,4 @@ feat: add auth module with JWT - src/modules/auth/auth.service.ts - commit 1
 refactor: optimize queries - src/modules/auth/auth.service.ts - commit 2
 feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - commit 3
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 4
+feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 5
