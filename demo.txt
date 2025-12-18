@@ -353,3 +353,4 @@ feat: setup project structure (NestJS) - src/modules/user/user.service.ts - comm
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 5
 feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 6
 refactor: optimize queries - src/modules/inventory/inventory.service.ts - commit 7
+feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 8
