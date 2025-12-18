@@ -355,3 +355,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - co
 refactor: optimize queries - src/modules/inventory/inventory.service.ts - commit 7
 feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 8
 feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 9
+feat: add order management API - prisma/schema.prisma - commit 10
