@@ -363,3 +363,4 @@ feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - co
 feat: add auth module with JWT - prisma/schema.prisma - commit 15
 feat: create inventory module - src/modules/order/order.service.ts - commit 16
 fix: inventory stock bug - src/modules/product/product.service.ts - commit 17
+feat: add order management API - src/modules/order/order.service.ts - commit 18
