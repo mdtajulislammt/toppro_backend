@@ -385,3 +385,4 @@ fix: resolve auth issue - src/common/utils/helpers.ts - commit 17
 fix: inventory stock bug - src/modules/order/order.service.ts - commit 18
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 19
 feat: add order management API - src/modules/user/user.service.ts - commit 20
+feat: add pagination & filtering - src/modules/user/user.service.ts - commit 21
