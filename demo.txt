@@ -381,3 +381,4 @@ feat: add order management API - src/modules/user/user.service.ts - commit 13
 fix: resolve auth issue - README.md - commit 14
 feat: integrate Redis caching - src/modules/order/order.service.ts - commit 15
 feat: add auth module with JWT - prisma/schema.prisma - commit 16
+fix: resolve auth issue - src/common/utils/helpers.ts - commit 17
