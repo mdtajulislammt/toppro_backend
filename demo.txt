@@ -401,3 +401,4 @@ feat: add order management API - README.md - commit 12
 feat: add auth module with JWT - src/common/utils/helpers.ts - commit 13
 docs: update API documentation - prisma/schema.prisma - commit 14
 feat: integrate Redis caching - README.md - commit 15
+fix: inventory stock bug - src/modules/inventory/inventory.service.ts - commit 16
