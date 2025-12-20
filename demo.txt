@@ -399,3 +399,4 @@ feat: add RBAC system - src/modules/product/product.service.ts - commit 10
 feat: implement validation - README.md - commit 11
 feat: add order management API - README.md - commit 12
 feat: add auth module with JWT - src/common/utils/helpers.ts - commit 13
+docs: update API documentation - prisma/schema.prisma - commit 14
