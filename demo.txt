@@ -395,3 +395,4 @@ feat: integrate Redis caching - README.md - commit 6
 feat: create inventory module - src/modules/auth/auth.service.ts - commit 7
 fix: inventory stock bug - src/modules/auth/auth.service.ts - commit 8
 feat: add auth module with JWT - src/modules/user/user.service.ts - commit 9
+feat: add RBAC system - src/modules/product/product.service.ts - commit 10
