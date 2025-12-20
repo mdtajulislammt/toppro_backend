@@ -398,3 +398,4 @@ feat: add auth module with JWT - src/modules/user/user.service.ts - commit 9
 feat: add RBAC system - src/modules/product/product.service.ts - commit 10
 feat: implement validation - README.md - commit 11
 feat: add order management API - README.md - commit 12
+feat: add auth module with JWT - src/common/utils/helpers.ts - commit 13
