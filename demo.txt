@@ -406,3 +406,4 @@ feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 17
 fix: inventory stock bug - README.md - commit 18
 feat: add auth module with JWT - README.md - commit 19
 feat: add RBAC system - src/modules/order/order.service.ts - commit 1
+feat: implement validation - src/modules/auth/auth.service.ts - commit 2
