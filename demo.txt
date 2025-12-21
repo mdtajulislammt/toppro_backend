@@ -408,3 +408,4 @@ feat: add auth module with JWT - README.md - commit 19
 feat: add RBAC system - src/modules/order/order.service.ts - commit 1
 feat: implement validation - src/modules/auth/auth.service.ts - commit 2
 fix: inventory stock bug - prisma/schema.prisma - commit 3
+feat: add pagination & filtering - src/modules/user/user.service.ts - commit 4
