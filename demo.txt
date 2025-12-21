@@ -416,3 +416,4 @@ feat: create inventory module - src/common/utils/helpers.ts - commit 8
 feat: add auth module with JWT - README.md - commit 9
 feat: add RBAC system - src/modules/auth/auth.service.ts - commit 10
 feat: add RBAC system - prisma/schema.prisma - commit 11
+feat: implement validation - src/modules/inventory/inventory.service.ts - commit 12
