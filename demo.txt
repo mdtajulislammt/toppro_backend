@@ -421,3 +421,4 @@ feat: add RBAC system - src/modules/user/user.service.ts - commit 13
 feat: integrate Redis caching - src/common/utils/helpers.ts - commit 14
 feat: add RBAC system - src/modules/user/user.service.ts - commit 15
 fix: resolve auth issue - src/modules/user/user.service.ts - commit 16
+feat: add RBAC system - prisma/schema.prisma - commit 17
