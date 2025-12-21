@@ -413,3 +413,4 @@ chore: update configs - src/common/utils/helpers.ts - commit 5
 refactor: optimize queries - src/modules/product/product.service.ts - commit 6
 docs: update API documentation - src/modules/auth/auth.service.ts - commit 7
 feat: create inventory module - src/common/utils/helpers.ts - commit 8
+feat: add auth module with JWT - README.md - commit 9
