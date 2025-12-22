@@ -435,3 +435,4 @@ docs: update API documentation - src/modules/product/product.service.ts - commit
 refactor: optimize queries - src/modules/user/user.service.ts - commit 10
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 11
 feat: integrate PostgreSQL with Prisma - src/modules/product/product.service.ts - commit 12
+feat: integrate PostgreSQL with Prisma - src/modules/auth/auth.service.ts - commit 13
