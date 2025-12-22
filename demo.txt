@@ -423,3 +423,4 @@ feat: add RBAC system - src/modules/user/user.service.ts - commit 15
 fix: resolve auth issue - src/modules/user/user.service.ts - commit 16
 feat: add RBAC system - prisma/schema.prisma - commit 17
 feat: create inventory module - src/modules/user/user.service.ts - commit 18
+fix: resolve auth issue - src/modules/user/user.service.ts - commit 1
