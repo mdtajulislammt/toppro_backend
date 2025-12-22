@@ -434,3 +434,4 @@ fix: resolve auth issue - prisma/schema.prisma - commit 8
 docs: update API documentation - src/modules/product/product.service.ts - commit 9
 refactor: optimize queries - src/modules/user/user.service.ts - commit 10
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 11
+feat: integrate PostgreSQL with Prisma - src/modules/product/product.service.ts - commit 12
