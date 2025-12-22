@@ -426,3 +426,4 @@ feat: create inventory module - src/modules/user/user.service.ts - commit 18
 fix: resolve auth issue - src/modules/user/user.service.ts - commit 1
 feat: add order management API - src/common/utils/helpers.ts - commit 2
 fix: resolve auth issue - README.md - commit 3
+feat: implement validation - src/modules/user/user.service.ts - commit 4
