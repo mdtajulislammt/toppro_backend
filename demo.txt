@@ -431,3 +431,4 @@ feat: implement user CRUD API - prisma/schema.prisma - commit 5
 feat: implement user CRUD API - src/common/utils/helpers.ts - commit 6
 feat: setup project structure (NestJS) - README.md - commit 7
 fix: resolve auth issue - prisma/schema.prisma - commit 8
+docs: update API documentation - src/modules/product/product.service.ts - commit 9
