@@ -428,3 +428,4 @@ feat: add order management API - src/common/utils/helpers.ts - commit 2
 fix: resolve auth issue - README.md - commit 3
 feat: implement validation - src/modules/user/user.service.ts - commit 4
 feat: implement user CRUD API - prisma/schema.prisma - commit 5
+feat: implement user CRUD API - src/common/utils/helpers.ts - commit 6
