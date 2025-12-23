@@ -453,3 +453,4 @@ fix: inventory stock bug - src/modules/inventory/inventory.service.ts - commit 1
 feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - commit 12
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 13
 feat: implement validation - prisma/schema.prisma - commit 14
+chore: update configs - src/modules/inventory/inventory.service.ts - commit 15
