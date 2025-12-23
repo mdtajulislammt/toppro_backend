@@ -451,3 +451,4 @@ feat: add order management API - src/common/utils/helpers.ts - commit 9
 feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 10
 fix: inventory stock bug - src/modules/inventory/inventory.service.ts - commit 11
 feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - commit 12
+feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 13
