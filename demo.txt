@@ -441,3 +441,4 @@ feat: add pagination & filtering - src/modules/product/product.service.ts - comm
 feat: implement user CRUD API - prisma/schema.prisma - commit 16
 feat: add order management API - src/modules/product/product.service.ts - commit 1
 refactor: optimize queries - src/modules/order/order.service.ts - commit 2
+feat: implement user CRUD API - src/common/utils/helpers.ts - commit 3
