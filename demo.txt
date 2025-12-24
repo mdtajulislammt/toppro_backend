@@ -463,3 +463,4 @@ chore: update configs - src/modules/inventory/inventory.service.ts - commit 6
 refactor: optimize queries - src/modules/user/user.service.ts - commit 7
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 8
 feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 9
+feat: implement user CRUD API - src/common/utils/helpers.ts - commit 10
