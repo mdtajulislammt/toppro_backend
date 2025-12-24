@@ -460,3 +460,4 @@ feat: implement validation - README.md - commit 3
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 4
 feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 5
 chore: update configs - src/modules/inventory/inventory.service.ts - commit 6
+refactor: optimize queries - src/modules/user/user.service.ts - commit 7
