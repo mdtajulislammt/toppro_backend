@@ -474,3 +474,4 @@ feat: setup project structure (NestJS) - src/modules/user/user.service.ts - comm
 feat: integrate Redis caching - src/modules/inventory/inventory.service.ts - commit 18
 feat: add pagination & filtering - src/modules/user/user.service.ts - commit 19
 feat: add RBAC system - src/modules/order/order.service.ts - commit 20
+feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 21
