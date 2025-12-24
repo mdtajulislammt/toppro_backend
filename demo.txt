@@ -470,3 +470,4 @@ feat: add pagination & filtering - src/modules/product/product.service.ts - comm
 feat: implement user CRUD API - src/modules/order/order.service.ts - commit 14
 feat: implement user CRUD API - README.md - commit 15
 feat: add RBAC system - src/modules/user/user.service.ts - commit 16
+feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 17
