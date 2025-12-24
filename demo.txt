@@ -462,3 +462,4 @@ feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 5
 chore: update configs - src/modules/inventory/inventory.service.ts - commit 6
 refactor: optimize queries - src/modules/user/user.service.ts - commit 7
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 8
+feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 9
