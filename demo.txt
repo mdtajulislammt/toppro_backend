@@ -454,3 +454,4 @@ feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - comm
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 13
 feat: implement validation - prisma/schema.prisma - commit 14
 chore: update configs - src/modules/inventory/inventory.service.ts - commit 15
+feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 1
