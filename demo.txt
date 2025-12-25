@@ -488,3 +488,4 @@ feat: add pagination & filtering - prisma/schema.prisma - commit 7
 feat: integrate PostgreSQL with Prisma - src/modules/auth/auth.service.ts - commit 8
 docs: update API documentation - prisma/schema.prisma - commit 9
 feat: add pagination & filtering - prisma/schema.prisma - commit 10
+feat: create inventory module - src/modules/product/product.service.ts - commit 11
