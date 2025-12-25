@@ -495,3 +495,4 @@ feat: integrate PostgreSQL with Prisma - src/modules/auth/auth.service.ts - comm
 feat: create inventory module - src/common/utils/helpers.ts - commit 15
 feat: create inventory module - src/modules/inventory/inventory.service.ts - commit 16
 chore: update configs - src/common/utils/helpers.ts - commit 17
+feat: implement user CRUD API - src/modules/inventory/inventory.service.ts - commit 18
