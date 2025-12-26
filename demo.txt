@@ -508,3 +508,4 @@ feat: add pagination & filtering - README.md - commit 7
 chore: update configs - prisma/schema.prisma - commit 8
 fix: resolve auth issue - src/modules/auth/auth.service.ts - commit 9
 chore: update configs - src/modules/product/product.service.ts - commit 10
+feat: add order management API - src/modules/auth/auth.service.ts - commit 11
