@@ -505,3 +505,4 @@ feat: create inventory module - prisma/schema.prisma - commit 4
 feat: implement validation - src/common/utils/helpers.ts - commit 5
 feat: add pagination & filtering - README.md - commit 6
 feat: add pagination & filtering - README.md - commit 7
+chore: update configs - prisma/schema.prisma - commit 8
