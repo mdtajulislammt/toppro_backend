@@ -500,3 +500,4 @@ feat: setup project structure (NestJS) - src/modules/product/product.service.ts 
 feat: integrate Redis caching - prisma/schema.prisma - commit 20
 fix: inventory stock bug - src/modules/order/order.service.ts - commit 1
 feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 2
+feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 3
