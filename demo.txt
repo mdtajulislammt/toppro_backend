@@ -769,3 +769,4 @@ chore: update configs - src/modules/order/order.service.ts - commit 21
 feat: implement user CRUD API - README.md - commit 22
 feat: integrate PostgreSQL with Prisma - README.md - commit 23
 feat: create inventory module - src/modules/order/order.service.ts - commit 1
+feat: implement user CRUD API - src/modules/order/order.service.ts - commit 2
