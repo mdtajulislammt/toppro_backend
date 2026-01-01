@@ -779,3 +779,4 @@ docs: update API documentation - src/common/utils/helpers.ts - commit 8
 feat: add order management API - src/modules/order/order.service.ts - commit 9
 feat: integrate Redis caching - src/modules/inventory/inventory.service.ts - commit 10
 feat: implement validation - prisma/schema.prisma - commit 11
+feat: add pagination & filtering - src/modules/user/user.service.ts - commit 12
