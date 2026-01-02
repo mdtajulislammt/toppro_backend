@@ -793,3 +793,4 @@ fix: resolve auth issue - src/modules/auth/auth.service.ts - commit 9
 feat: add RBAC system - src/modules/order/order.service.ts - commit 10
 feat: add auth module with JWT - prisma/schema.prisma - commit 11
 feat: add order management API - prisma/schema.prisma - commit 12
+chore: update configs - src/common/utils/helpers.ts - commit 13
