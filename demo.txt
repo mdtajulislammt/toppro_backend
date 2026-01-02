@@ -783,3 +783,4 @@ feat: add pagination & filtering - src/modules/user/user.service.ts - commit 12
 fix: resolve auth issue - README.md - commit 13
 fix: resolve auth issue - prisma/schema.prisma - commit 1
 feat: implement validation - src/common/utils/helpers.ts - commit 2
+fix: resolve auth issue - src/modules/order/order.service.ts - commit 3
