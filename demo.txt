@@ -781,3 +781,4 @@ feat: integrate Redis caching - src/modules/inventory/inventory.service.ts - com
 feat: implement validation - prisma/schema.prisma - commit 11
 feat: add pagination & filtering - src/modules/user/user.service.ts - commit 12
 fix: resolve auth issue - README.md - commit 13
+fix: resolve auth issue - prisma/schema.prisma - commit 1
