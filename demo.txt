@@ -799,3 +799,4 @@ refactor: optimize queries - src/modules/inventory/inventory.service.ts - commit
 feat: add order management API - README.md - commit 16
 feat: integrate Redis caching - src/modules/inventory/inventory.service.ts - commit 17
 feat: add pagination & filtering - src/common/utils/helpers.ts - commit 18
+feat: integrate Redis caching - README.md - commit 19
