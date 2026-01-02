@@ -795,3 +795,4 @@ feat: add auth module with JWT - prisma/schema.prisma - commit 11
 feat: add order management API - prisma/schema.prisma - commit 12
 chore: update configs - src/common/utils/helpers.ts - commit 13
 feat: implement user CRUD API - src/modules/product/product.service.ts - commit 14
+refactor: optimize queries - src/modules/inventory/inventory.service.ts - commit 15
