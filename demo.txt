@@ -804,3 +804,4 @@ fix: inventory stock bug - src/modules/user/user.service.ts - commit 1
 feat: implement validation - src/modules/auth/auth.service.ts - commit 2
 docs: update API documentation - README.md - commit 3
 feat: integrate PostgreSQL with Prisma - src/modules/auth/auth.service.ts - commit 4
+feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 5
