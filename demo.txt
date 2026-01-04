@@ -819,3 +819,4 @@ feat: add RBAC system - src/modules/user/user.service.ts - commit 3
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 4
 feat: implement validation - src/common/utils/helpers.ts - commit 5
 feat: add auth module with JWT - README.md - commit 6
+docs: update API documentation - src/modules/auth/auth.service.ts - commit 7
