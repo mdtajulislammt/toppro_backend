@@ -832,3 +832,4 @@ feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 1
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 2
 feat: implement validation - README.md - commit 3
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 4
+docs: update API documentation - src/modules/order/order.service.ts - commit 5
