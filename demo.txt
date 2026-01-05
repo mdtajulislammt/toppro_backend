@@ -828,3 +828,4 @@ feat: setup project structure (NestJS) - src/modules/product/product.service.ts 
 feat: create inventory module - src/modules/product/product.service.ts - commit 13
 feat: add RBAC system - src/common/utils/helpers.ts - commit 14
 feat: add auth module with JWT - src/modules/product/product.service.ts - commit 15
+feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 1
