@@ -837,3 +837,4 @@ feat: setup project structure (NestJS) - src/modules/product/product.service.ts 
 fix: inventory stock bug - src/modules/user/user.service.ts - commit 7
 feat: add RBAC system - src/common/utils/helpers.ts - commit 8
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 9
+feat: implement validation - README.md - commit 10
