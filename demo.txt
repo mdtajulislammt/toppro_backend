@@ -831,3 +831,4 @@ feat: add auth module with JWT - src/modules/product/product.service.ts - commit
 feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 1
 feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 2
 feat: implement validation - README.md - commit 3
+feat: setup project structure (NestJS) - src/modules/user/user.service.ts - commit 4
