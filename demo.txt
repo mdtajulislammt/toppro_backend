@@ -842,3 +842,4 @@ feat: add pagination & filtering - src/modules/order/order.service.ts - commit 1
 fix: inventory stock bug - README.md - commit 2
 chore: update configs - src/modules/order/order.service.ts - commit 3
 feat: integrate PostgreSQL with Prisma - prisma/schema.prisma - commit 4
+feat: add pagination & filtering - prisma/schema.prisma - commit 5
