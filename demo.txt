@@ -850,3 +850,4 @@ feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - co
 feat: add auth module with JWT - prisma/schema.prisma - commit 10
 docs: update API documentation - src/common/utils/helpers.ts - commit 11
 feat: integrate Redis caching - src/modules/order/order.service.ts - commit 12
+fix: resolve auth issue - prisma/schema.prisma - commit 13
