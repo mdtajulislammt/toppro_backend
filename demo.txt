@@ -847,3 +847,4 @@ feat: add RBAC system - src/modules/inventory/inventory.service.ts - commit 6
 chore: update configs - src/modules/user/user.service.ts - commit 7
 feat: create inventory module - src/modules/product/product.service.ts - commit 8
 feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - commit 9
+feat: add auth module with JWT - prisma/schema.prisma - commit 10
