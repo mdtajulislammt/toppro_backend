@@ -839,3 +839,4 @@ feat: add RBAC system - src/common/utils/helpers.ts - commit 8
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 9
 feat: implement validation - README.md - commit 10
 feat: add pagination & filtering - src/modules/order/order.service.ts - commit 1
+fix: inventory stock bug - README.md - commit 2
