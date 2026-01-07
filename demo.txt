@@ -864,3 +864,4 @@ fix: resolve auth issue - src/common/utils/helpers.ts - commit 7
 feat: add order management API - src/modules/product/product.service.ts - commit 8
 fix: inventory stock bug - src/common/utils/helpers.ts - commit 9
 docs: update API documentation - prisma/schema.prisma - commit 10
+feat: add pagination & filtering - src/common/utils/helpers.ts - commit 11
