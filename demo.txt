@@ -883,3 +883,4 @@ feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 15
 feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 16
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 17
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 18
+feat: implement validation - src/modules/inventory/inventory.service.ts - commit 19
