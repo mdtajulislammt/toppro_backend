@@ -877,3 +877,4 @@ feat: add pagination & filtering - src/modules/user/user.service.ts - commit 9
 feat: integrate Redis caching - src/modules/user/user.service.ts - commit 10
 fix: inventory stock bug - src/modules/user/user.service.ts - commit 11
 feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 12
+chore: update configs - src/common/utils/helpers.ts - commit 13
