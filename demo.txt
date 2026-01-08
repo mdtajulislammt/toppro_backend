@@ -881,3 +881,4 @@ chore: update configs - src/common/utils/helpers.ts - commit 13
 feat: add auth module with JWT - prisma/schema.prisma - commit 14
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 15
 feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 16
+feat: implement validation - src/modules/inventory/inventory.service.ts - commit 17
