@@ -879,3 +879,4 @@ fix: inventory stock bug - src/modules/user/user.service.ts - commit 11
 feat: setup project structure (NestJS) - src/modules/order/order.service.ts - commit 12
 chore: update configs - src/common/utils/helpers.ts - commit 13
 feat: add auth module with JWT - prisma/schema.prisma - commit 14
+feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 15
