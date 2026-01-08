@@ -874,3 +874,4 @@ feat: add RBAC system - src/modules/auth/auth.service.ts - commit 6
 feat: add pagination & filtering - src/common/utils/helpers.ts - commit 7
 feat: add RBAC system - src/modules/product/product.service.ts - commit 8
 feat: add pagination & filtering - src/modules/user/user.service.ts - commit 9
+feat: integrate Redis caching - src/modules/user/user.service.ts - commit 10
