@@ -867,3 +867,4 @@ docs: update API documentation - prisma/schema.prisma - commit 10
 feat: add pagination & filtering - src/common/utils/helpers.ts - commit 11
 fix: resolve auth issue - src/modules/order/order.service.ts - commit 1
 feat: integrate PostgreSQL with Prisma - src/modules/user/user.service.ts - commit 2
+feat: integrate PostgreSQL with Prisma - src/common/utils/helpers.ts - commit 3
