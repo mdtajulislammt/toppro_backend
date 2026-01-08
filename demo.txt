@@ -880,3 +880,4 @@ feat: setup project structure (NestJS) - src/modules/order/order.service.ts - co
 chore: update configs - src/common/utils/helpers.ts - commit 13
 feat: add auth module with JWT - prisma/schema.prisma - commit 14
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 15
+feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 16
