@@ -892,3 +892,4 @@ fix: resolve auth issue - src/modules/order/order.service.ts - commit 5
 fix: resolve auth issue - src/modules/inventory/inventory.service.ts - commit 6
 feat: add RBAC system - src/modules/auth/auth.service.ts - commit 7
 feat: add pagination & filtering - src/modules/order/order.service.ts - commit 8
+feat: implement user CRUD API - src/modules/auth/auth.service.ts - commit 9
