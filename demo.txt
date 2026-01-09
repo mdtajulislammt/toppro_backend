@@ -897,3 +897,4 @@ feat: integrate Redis caching - src/modules/inventory/inventory.service.ts - com
 feat: implement user CRUD API - prisma/schema.prisma - commit 11
 docs: update API documentation - src/modules/inventory/inventory.service.ts - commit 12
 feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 13
+feat: add auth module with JWT - src/modules/user/user.service.ts - commit 14
