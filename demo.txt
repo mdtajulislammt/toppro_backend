@@ -885,3 +885,4 @@ feat: implement validation - src/modules/inventory/inventory.service.ts - commit
 feat: setup project structure (NestJS) - prisma/schema.prisma - commit 18
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 19
 feat: add order management API - src/modules/user/user.service.ts - commit 1
+feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - commit 2
