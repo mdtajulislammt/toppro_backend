@@ -888,3 +888,4 @@ feat: add order management API - src/modules/user/user.service.ts - commit 1
 feat: setup project structure (NestJS) - src/modules/auth/auth.service.ts - commit 2
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 3
 refactor: optimize queries - src/modules/inventory/inventory.service.ts - commit 4
+fix: resolve auth issue - src/modules/order/order.service.ts - commit 5
