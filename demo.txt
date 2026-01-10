@@ -903,3 +903,4 @@ fix: resolve auth issue - src/modules/inventory/inventory.service.ts - commit 1
 feat: create inventory module - src/common/utils/helpers.ts - commit 2
 chore: update configs - src/modules/inventory/inventory.service.ts - commit 3
 docs: update API documentation - src/common/utils/helpers.ts - commit 4
+feat: add auth module with JWT - src/modules/order/order.service.ts - commit 5
