@@ -910,3 +910,4 @@ docs: update API documentation - src/modules/order/order.service.ts - commit 8
 feat: add auth module with JWT - src/modules/order/order.service.ts - commit 9
 fix: inventory stock bug - README.md - commit 10
 fix: resolve auth issue - README.md - commit 11
+feat: add order management API - src/modules/user/user.service.ts - commit 12
