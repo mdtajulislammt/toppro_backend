@@ -908,3 +908,4 @@ feat: implement user CRUD API - README.md - commit 6
 feat: setup project structure (NestJS) - src/common/utils/helpers.ts - commit 7
 docs: update API documentation - src/modules/order/order.service.ts - commit 8
 feat: add auth module with JWT - src/modules/order/order.service.ts - commit 9
+fix: inventory stock bug - README.md - commit 10
