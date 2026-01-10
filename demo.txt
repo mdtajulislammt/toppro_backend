@@ -901,3 +901,4 @@ feat: add auth module with JWT - src/modules/user/user.service.ts - commit 14
 feat: add RBAC system - src/modules/order/order.service.ts - commit 15
 fix: resolve auth issue - src/modules/inventory/inventory.service.ts - commit 1
 feat: create inventory module - src/common/utils/helpers.ts - commit 2
+chore: update configs - src/modules/inventory/inventory.service.ts - commit 3
