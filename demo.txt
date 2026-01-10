@@ -899,3 +899,4 @@ docs: update API documentation - src/modules/inventory/inventory.service.ts - co
 feat: integrate PostgreSQL with Prisma - src/modules/order/order.service.ts - commit 13
 feat: add auth module with JWT - src/modules/user/user.service.ts - commit 14
 feat: add RBAC system - src/modules/order/order.service.ts - commit 15
+fix: resolve auth issue - src/modules/inventory/inventory.service.ts - commit 1
