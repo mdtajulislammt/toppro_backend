@@ -917,3 +917,4 @@ feat: implement validation - src/common/utils/helpers.ts - commit 15
 feat: implement validation - src/modules/order/order.service.ts - commit 1
 fix: inventory stock bug - prisma/schema.prisma - commit 2
 refactor: optimize queries - prisma/schema.prisma - commit 3
+feat: add order management API - src/modules/product/product.service.ts - commit 4
