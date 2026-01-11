@@ -925,3 +925,4 @@ docs: update API documentation - prisma/schema.prisma - commit 8
 feat: add pagination & filtering - src/modules/auth/auth.service.ts - commit 9
 fix: resolve auth issue - src/modules/product/product.service.ts - commit 10
 fix: inventory stock bug - src/modules/inventory/inventory.service.ts - commit 11
+feat: implement validation - src/modules/inventory/inventory.service.ts - commit 12
