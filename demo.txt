@@ -943,3 +943,4 @@ feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - co
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 8
 fix: inventory stock bug - README.md - commit 9
 refactor: optimize queries - prisma/schema.prisma - commit 10
+fix: resolve auth issue - src/common/utils/helpers.ts - commit 11
