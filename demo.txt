@@ -933,3 +933,4 @@ chore: update configs - src/modules/inventory/inventory.service.ts - commit 16
 feat: create inventory module - src/modules/inventory/inventory.service.ts - commit 17
 fix: resolve auth issue - prisma/schema.prisma - commit 18
 fix: inventory stock bug - prisma/schema.prisma - commit 19
+feat: implement user CRUD API - src/modules/order/order.service.ts - commit 1
