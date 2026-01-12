@@ -942,3 +942,4 @@ feat: create inventory module - src/modules/user/user.service.ts - commit 6
 feat: add auth module with JWT - src/modules/inventory/inventory.service.ts - commit 7
 feat: implement validation - src/modules/inventory/inventory.service.ts - commit 8
 fix: inventory stock bug - README.md - commit 9
+refactor: optimize queries - prisma/schema.prisma - commit 10
