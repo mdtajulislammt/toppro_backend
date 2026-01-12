@@ -944,3 +944,4 @@ feat: implement validation - src/modules/inventory/inventory.service.ts - commit
 fix: inventory stock bug - README.md - commit 9
 refactor: optimize queries - prisma/schema.prisma - commit 10
 fix: resolve auth issue - src/common/utils/helpers.ts - commit 11
+chore: update configs - src/modules/user/user.service.ts - commit 12
