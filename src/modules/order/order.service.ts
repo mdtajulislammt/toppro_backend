@@ -13,3 +13,4 @@
 // update 21048
 // update feat: implement validation
 // update feat: add order management API
+// update feat: add auth module with JWT
