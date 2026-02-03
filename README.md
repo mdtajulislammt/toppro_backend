@@ -95,3 +95,4 @@ Swagger: http://{domain_name}/api/docs
 // update 5189
 // update feat: setup project structure (NestJS)
 // update feat: setup project structure (NestJS)
+// update feat: implement user CRUD API
