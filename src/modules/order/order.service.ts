@@ -15,3 +15,4 @@
 // update feat: add order management API
 // update feat: add auth module with JWT
 // update chore: update configs
+// update feat: add auth module with JWT
