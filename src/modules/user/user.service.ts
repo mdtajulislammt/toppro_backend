@@ -20,3 +20,4 @@
 // update 18535
 // update feat: setup project structure (NestJS)
 // update fix: inventory stock bug
+// update refactor: optimize queries
