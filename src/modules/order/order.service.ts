@@ -16,3 +16,4 @@
 // update feat: add auth module with JWT
 // update chore: update configs
 // update feat: add auth module with JWT
+// update fix: resolve auth issue
