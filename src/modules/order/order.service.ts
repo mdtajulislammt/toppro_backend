@@ -18,3 +18,6 @@
 // update feat: add auth module with JWT
 // update fix: resolve auth issue
 // update feat: integrate PostgreSQL with Prisma
+// update fix: inventory stock bug
+// update docs: update API documentation
+// update feat: add order management API
