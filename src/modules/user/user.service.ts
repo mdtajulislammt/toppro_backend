@@ -21,3 +21,4 @@
 // update feat: setup project structure (NestJS)
 // update fix: inventory stock bug
 // update refactor: optimize queries
+// update feat: create inventory module
