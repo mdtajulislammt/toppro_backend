@@ -19,3 +19,4 @@
 // update feat: add RBAC system
 // update fix: resolve auth issue
 // update feat: add order management API
+// update feat: create inventory module
