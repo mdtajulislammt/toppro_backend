@@ -25,3 +25,4 @@
 // update feat: implement validation
 // update refactor: optimize queries
 // update feat: integrate PostgreSQL with Prisma
+// update fix: resolve auth issue
