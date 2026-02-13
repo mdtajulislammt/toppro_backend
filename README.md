@@ -100,3 +100,4 @@ Swagger: http://{domain_name}/api/docs
 // update feat: create inventory module
 // update feat: implement user CRUD API
 // update fix: inventory stock bug
+// update refactor: optimize queries
