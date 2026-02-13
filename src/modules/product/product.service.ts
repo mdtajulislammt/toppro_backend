@@ -20,3 +20,4 @@
 // update fix: resolve auth issue
 // update feat: add order management API
 // update feat: create inventory module
+// update feat: integrate PostgreSQL with Prisma
