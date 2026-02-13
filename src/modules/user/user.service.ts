@@ -22,3 +22,4 @@
 // update fix: inventory stock bug
 // update refactor: optimize queries
 // update feat: create inventory module
+// update feat: add RBAC system
